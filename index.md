@@ -39,11 +39,16 @@ remote_theme: pmarsceill/just-the-docs
 
 ---
 
-## Prequisites
+## Prerequisites
 
-1. PyCharm 2020.3.5 (Professional Edition)
-2. Active JetBrains Student Account
-3. Github Account
+This guide works with the following program versions noted below. Higher versions may not work depending on future changes.
+
+1. Python 3.9.2 [Get the latest version](https://www.python.org/downloads/)
+2. Active JetBrains Student Account [Sign up for Student Account](https://account.jetbrains.com/login)
+3. PyCharm 2020.3.5 (Professional Edition) [Get the latest version](https://www.jetbrains.com/pycharm/download/)
+4. Github Account [Sign up](https://github.com/)
+5. Git 2.31.1 [Get the latest version](https://git-scm.com/)
+
 
 ---
 
@@ -51,10 +56,10 @@ remote_theme: pmarsceill/just-the-docs
 
 1. Windows 10 Operating System
 2. Internet connection
-3. General computer knowledge
+3. Basic computer knowledge
 4. 
 
-Specific system requirements details 
+Specific system requirements details z
 
 - [See configuration options]({{ site.baseurl }}{% link docs/configuration.md %})
 
@@ -65,10 +70,10 @@ Specific system requirements details
 Just the Docs is &copy; 2017-{{ "now" | date: "%Y" }} by [Patrick Marsceill](http://patrickmarsceill.com).
 
 1. Setting up PyCharm
-2. Linking to Github Account
-3. Version Control
-4. Workspace Layout
-5. Unit Testing
+2. Linking to Github Account 
+3. Programming in Python
+4. Testing Your Codes
+5. Working with Version Control
 
 ---
 
