@@ -17,6 +17,7 @@ Pycharm for dummies is a document with multiple walkthroughs to help people util
 ---
 
 ## TABLE OF CONTENTS
+{:.no_toc}
 1. Getting Started
 2. Intended Users
 3. Software Prequisites
