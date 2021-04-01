@@ -110,5 +110,4 @@ Just the Docs is committed to fostering a welcoming community.
 
 [View our Code of Conduct](https://github.com/pmarsceill/just-the-docs/tree/master/CODE_OF_CONDUCT.md) on our GitHub repository.
 
-![pycharm-logo](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/PyCharm-Icon.png?raw=true "Pycharm logo") 
-)
+![pycharm-logo](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/PyCharm-Icon.png?raw=true "Pycharm logo")
