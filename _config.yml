@@ -64,7 +64,7 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Pycharm For Dummies":
+  "Pycharm For Dummies on GitHub":
     - "//github.com/harryseo1992/Pycharm-For-Dummies"
 
 # Makes Aux links open in a new tab. Default is false
