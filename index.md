@@ -17,12 +17,19 @@ Pycharm for dummies is a document with multiple walkthroughs to help people util
 ---
 
 ## TABLE OF CONTENTS
+1. Getting Started
+2. Intended Users
+3. Software Prequisites
+4. System Requirements
+5. Instructions Overview
+6. Typographical Conventions
+7. Conclusion
 
-### Getting Starting
+### Getting Started
 
 Just the Docs is built for [Jekyll](https://jekyllrb.com), a static site generator. View the [quick start guide](https://jekyllrb.com/docs/) for more information. Just the Docs requires no special plugins and can run on GitHub Pages' standard Jekyll compiler. The [Jekyll SEO Tag plugin](https://github.com/jekyll/jekyll-seo-tag) is included by default (no need to run any special installation) to inject SEO and open graph metadata on docs pages. For information on how to configure SEO and open graph metadata visit the [Jekyll SEO Tag usage guide](https://jekyll.github.io/jekyll-seo-tag/usage/).
 
-### Quick start: Use as a GitHub Pages remote theme
+### Intended Users
 
 1. Add Just the Docs to your Jekyll site's `_config.yml` as a [remote theme](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/)
 ```yaml
@@ -30,7 +37,7 @@ remote_theme: pmarsceill/just-the-docs
 ```
 <small>You must have GitHub Pages enabled on your repo, one or more Markdown files, and a `_config.yml` file. [See an example repository](https://github.com/pmarsceill/jtd-remote)</small>
 
-### Local installation: Use the gem-based theme
+### Software Prequisites
 
 1. Install the Ruby Gem
 ```bash
@@ -60,21 +67,21 @@ $ bundle exec jekyll serve
 
 If you're hosting your site on GitHub Pages, [set up GitHub Pages and Jekyll locally](https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll) so that you can more easily work in your development environment.
 
-### Configure Just the Docs
+### System Requirements
 
 - [See configuration options]({{ site.baseurl }}{% link docs/configuration.md %})
 
 ---
 
-## About the project
+## Instructions Overview
 
 Just the Docs is &copy; 2017-{{ "now" | date: "%Y" }} by [Patrick Marsceill](http://patrickmarsceill.com).
 
-### License
+### Typographical Conventions
 
 Just the Docs is distributed by an [MIT license](https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt).
 
-### Contributing
+### Conclusion
 
 When contributing to this repository, please first discuss the change you wish to make via issue,
 email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/pmarsceill/just-the-docs#contributing).
@@ -94,3 +101,5 @@ email, or any other method with the owners of this repository before making a ch
 Just the Docs is committed to fostering a welcoming community.
 
 [View our Code of Conduct](https://github.com/pmarsceill/just-the-docs/tree/master/CODE_OF_CONDUCT.md) on our GitHub repository.
+
+![pycharm-logo] (/assets/images/pycharm-logo.png) ?raw=true "Pycharm logo"
