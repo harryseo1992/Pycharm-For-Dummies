@@ -9,7 +9,7 @@ permalink: /
 # Introduction
 {: .fs-9 }
 {: .no_toc}
-Pycharm for dummies is a document with multiple walkthroughs to help people utilize one of the many IDEs (Integrated Development Environments) called PyCharm to its maximum potential.
+Pycharm for dummies is a document with multiple walkthroughs to help people utilize one of the many IDEs (Integrated Development Environments) called PyCharm to its maximum potential. The guide will help you through basic tasks such as setting up PyCharm and other basic PyCharm functions that any beginner would want to know.
 {: .fs-6 .fw-300 }
 
 [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/harryseo1992/Pycharm-For-Dummies){: .btn .fs-5 .mb-4 .mb-md-0 }
@@ -23,19 +23,9 @@ Pycharm for dummies is a document with multiple walkthroughs to help people util
 
 ---
 
-## Getting Started
-
-Just the Docs is built for [Jekyll](https://jekyllrb.com), a static site generator. View the [quick start guide](https://jekyllrb.com/docs/) for more information. Just the Docs requires no special plugins and can run on GitHub Pages' standard Jekyll compiler. The [Jekyll SEO Tag plugin](https://github.com/jekyll/jekyll-seo-tag) is included by default (no need to run any special installation) to inject SEO and open graph metadata on docs pages. For information on how to configure SEO and open graph metadata visit the [Jekyll SEO Tag usage guide](https://jekyll.github.io/jekyll-seo-tag/usage/).
-
----
-
 ## Intended Users
 
-1. Add Just the Docs to your Jekyll site's `_config.yml` as a [remote theme](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/)
-```yaml
-remote_theme: pmarsceill/just-the-docs
-```
-<small>You must have GitHub Pages enabled on your repo, one or more Markdown files, and a `_config.yml` file. [See an example repository](https://github.com/pmarsceill/jtd-remote)</small>
+This guide is intended for programming students looking for a professional IDE to take advantage of during their first python course. The guide assumes you have completed the following prerequisites. 
 
 ---
 
@@ -54,20 +44,16 @@ This guide works with the following program versions noted below. Higher version
 
 ## System Requirements
 
-1. Windows 10 Operating System
-2. Internet connection
-3. Basic computer knowledge
-4. 
-
-Specific system requirements details z
-
-- [See configuration options]({{ site.baseurl }}{% link docs/configuration.md %})
+1. A functionaing computer that [meets the minimum requirements for PyCharm](https://www.jetbrains.com/help/pycharm/installation-guide.html#requirements)
+2. Windows 10 Operating System
+3. Internet connection
+4. Basic computer knowledge
 
 ---
 
 ## Instructions Overview
 
-Just the Docs is &copy; 2017-{{ "now" | date: "%Y" }} by [Patrick Marsceill](http://patrickmarsceill.com).
+The guide will cover the following basic tasks that are essential for beginners. Screenshots and helpful hints will be provided throughout the guide to promote understanding.
 
 1. Setting up PyCharm
 2. Linking to Github Account 
