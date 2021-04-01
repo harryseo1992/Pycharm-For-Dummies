@@ -8,7 +8,7 @@ permalink: /
 
 # Introduction
 {: .fs-9 }
-
+{: .no_toc}
 Pycharm for dummies is a document with multiple walkthroughs to help people utilize one of the many IDEs (Integrated Development Environments) called PyCharm to its maximum potential.
 {: .fs-6 .fw-300 }
 
@@ -17,7 +17,7 @@ Pycharm for dummies is a document with multiple walkthroughs to help people util
 ---
 
 ## TABLE OF CONTENTS
-{:.no_toc}
+{: .no_toc .text-delta}
 1. Getting Started
 2. Intended Users
 3. Software Prequisites
@@ -116,4 +116,4 @@ Just the Docs is committed to fostering a welcoming community.
 
 [View our Code of Conduct](https://github.com/pmarsceill/just-the-docs/tree/master/CODE_OF_CONDUCT.md) on our GitHub repository.
 
-![pycharm-logo](https://github.com/harryseo1992/Pycharm-For-Dummies/assets/images/pycharm-logo.png)?raw=true "Pycharm logo"
+![pycharm-logo](https://github.com/harryseo1992/Pycharm-For-Dummies/tree/gh-pages/assets/images/pycharm-logo.png)?raw=true "Pycharm logo"
