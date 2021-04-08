@@ -41,9 +41,15 @@ Before we start, double-click on PyCharm icon to run it.
     ![cloning_repository](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/cloning_repository_press_clone.png?raw=true "Cloning repository")
 8. Congrats! You successfully cloned a repository of your own choosing!
 
+---
+
 ## Committing and Pushing Changes
 
+### Introduction
+
 We have all experienced losing our saved work whether by forgetting where we have put them or messing up so bad the file got corrupted. It is also important to save your work when coding as well. To do that, you need to "commit" the changes you have made and "push" the changes to the repository you have cloned.
+
+### Steps
 
 1. If you see your files change colour as highlighted below, it means there are changes made that is not saved.
     
@@ -60,7 +66,7 @@ We have all experienced losing our saved work whether by forgetting where we hav
 
 4. Fill out the changes you have made to those files. Simple descriptions that others can understand what changes you have made are best.
     ![committing_changes](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/commit_message_filledout.png?raw=true "committing changes")
-    
+
 ## **STOP**
 {: .label .label-yellow }
 
