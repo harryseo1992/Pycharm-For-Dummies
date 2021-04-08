@@ -70,15 +70,20 @@ The guide will cover the following basic tasks that are essential for beginners.
 
 The following icons will be used to help orientate you throughout this guide.
 
-- GO 
+Convention | Examples
+--- | ---
+Specific menu navigation headings | **File** -> **New Window**
+Specific menu options / buttons | *commit* button
+
+
+GO 
 {: .label .label-green }
-- Stop 
+Stop 
 {: .label .label-red }
-- Caution {: .label .label-yellow }
-- Recommended {: .label .label-blue }
-- Menu navigation eg. **File** -> **New Window**
-- Menu options and buttons 
-  > *commit* button
-  
+Caution 
+{: .label .label-yellow }: Pay attention to the following warning to avoid problematic mistakes
+Recommended 
+{: .label .label-blue }
+
 
 ![pycharm-logo](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/PyCharm-Icon-Small.png?raw=true "Pycharm logo")
