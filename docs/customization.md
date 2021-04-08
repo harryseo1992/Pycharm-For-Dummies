@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Working with Version Control
-nav_order: 3
+nav_order: 6
 ---
 
 # Working with Version Control
@@ -64,10 +64,8 @@ We have all experienced losing our saved work whether by forgetting where we hav
 
 4. Fill out the changes you have made to those files. Simple descriptions that others can understand what changes you have made are best.
 
-### STOP
-{: .label .label-yellow }
-
 ```
+--------STOP-------- 
 You may choose to press "commit" here to simply "commit" the changes you have made. 
 However, in order to save the changes you have made to a repository that you cloned from, 
 you must also "push" the changes you made as well. The next step will entail "pushing" changes.
