@@ -74,17 +74,24 @@ Convention | Description
 --- | ---
 **File** -> **New Window** | Specific menu navigation headings
 *commit* button | Specific menu options / buttons
+
+
+
 GO 
 {: .label .label-green }
-| Proceed to the next step
-
+Proceed to the next step
 
 Stop 
 {: .label .label-red }
+Make sure you have completed the previous steps before continuing
+
 Caution 
-{: .label .label-yellow }: Pay attention to the following warning to avoid problematic mistakes
+{: .label .label-yellow }
+Pay attention to the following warning to avoid problematic mistakes
+
 Recommended 
-{: .label .label-blue }: Useful hints and tips
+{: .label .label-blue }
+Useful hints and tips
 
 
 ![pycharm-logo](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/PyCharm-Icon-Small.png?raw=true "Pycharm logo")
