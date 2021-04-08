@@ -4,7 +4,7 @@ title: Configuration
 nav_order: 2
 ---
 
-# Setting up Pycharm
+# Configuration
 {: .no_toc }
 
 
