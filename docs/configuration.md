@@ -19,16 +19,12 @@ Just the Docs has some specific configuration parameters that can be defined in 
 
 ---
 
-
-View this site's [_config.yml](https://github.com/pmarsceill/just-the-docs/tree/master/_config.yml) file as an example.
-
-
 ## Check Python Is Working
 If you successfully installed Python, Git, and PyCharm, the first thing you need to do is to check your Python program is working.
 
-In Windows 10, you can check it using **Command Prompt.**
+In Windows 10, you can check it using Command Prompt.
 
-In order to open Command Prompt, press WIN(![windows-key](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/window.png?raw=true "windows key"))
+In order to open Command Prompt, press WIN(![windows-key](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/windows.png?raw=true "windows key"))
 
 ```yaml
 # Set a path/url to a logo that will be displayed instead of the title

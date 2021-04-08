@@ -75,6 +75,8 @@ The following icons will be used to help orientate you throughout this guide.
 - Caution {: .label .label-yellow }
 - Recommended {: .label .label-blue }
 - Menu navigation eg. **File** -> **New Window**
-- Menu options and buttons eg. *commit* button
+- Menu options and buttons 
+  > *commit* button
+  
 
 ![pycharm-logo](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/PyCharm-Icon-Small.png?raw=true "Pycharm logo")
