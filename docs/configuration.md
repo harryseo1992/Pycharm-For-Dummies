@@ -28,7 +28,7 @@ If you successfully installed Python, Git, and PyCharm, the first thing you need
 
 In Windows 10, you can check it using **Command Prompt.**
 
-In order to open Command Prompt, press WIN(![windows-key](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/commit_highlighted.png?raw=true "windows key"))
+In order to open Command Prompt, press WIN(![windows-key](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/window.png?raw=true "windows key"))
 
 ```yaml
 # Set a path/url to a logo that will be displayed instead of the title
