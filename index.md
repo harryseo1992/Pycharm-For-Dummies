@@ -83,7 +83,7 @@ Proceed to the next step
 
 Stop 
 {: .label .label-red }
-Make sure you have completed the previous steps before continuing
+Make sure you have done the following warning before continuing
 
 Caution 
 {: .label .label-yellow }
