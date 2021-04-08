@@ -20,13 +20,11 @@ Before we start, double-click on PyCharm icon to run it.
 ## Cloning Repository
 {: .d-inline-block }
 
-![cloning_repository](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/clone_repository.png?raw=true "Cloning repository")
-
 1. Press "Get from version control" to clone repository from Github to your PyCharm.
-
-![cloning_repository_GitHub](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/clone_repository_github_press_code.png?raw=true "Get clone repo url from GitHub")
+    ![cloning_repository](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/clone_repository.png?raw=true "Cloning repository")
 
 2. Go back to GitHub and find the repository you want to clone. 
+    ![cloning_repository_GitHub](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/clone_repository_github_press_code.png?raw=true "Get clone repo url from GitHub")
 3. Press the "Code" button to access the link.
 
 ![cloning_repository_GitHub](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/clone_repository_github_press_code_copy_clipboard.png?raw=true "Get clone repo url from GitHub")

@@ -23,15 +23,12 @@ Pycharm for dummies is a document with multiple walkthroughs to help people util
 
 ---
 
-<<<<<<< HEAD
 ## Getting Started
 
 Before we get started, we need to make sure you meet the system requirements for PyCharm. [Check the requirements here](https://www.msvu.ca/campus-life/campus-services/it-services/software-catalogue/pycharm/)
 
 ---
 
-=======
->>>>>>> f40a0d1e902a8b763e94aaeae2b926d4d773ef1a
 ## Intended Users
 
 This guide is intended for programming students looking for a professional IDE to take advantage of during their first python course. The guide assumes you have completed the following prerequisites. 
@@ -45,9 +42,8 @@ This guide works with the following program versions noted below. Higher version
 1. Python 3.9.2 [Get the latest version](https://www.python.org/downloads/)
 2. Active JetBrains Student Account [Sign up for Student Account](https://account.jetbrains.com/login)
 3. PyCharm 2020.3.5 (Professional Edition) [Get the latest version](https://www.jetbrains.com/pycharm/download/)
-4. Github Account [Sign up](https://github.com/)
+4. Github Account [Sign up for Account](https://github.com/)
 5. Git 2.31.1 [Get the latest version](https://git-scm.com/)
-
 
 ---
 
@@ -74,29 +70,13 @@ The guide will cover the following basic tasks that are essential for beginners.
 
 ## Typographical Conventions
 
-Just the Docs is distributed by an [MIT license](https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt).
+The following icons will help orientate you throughout this guide. These icons include
 
----
+- Go
+- <span style="color:red">Stop</span>
+- Caution
+- Recommended
+- Code blocks
 
-## Conclusion
 
-When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/pmarsceill/just-the-docs#contributing).
-
-#### Thank you to the contributors of Just the Docs!
-
-<ul class="list-style-none">
-{% for contributor in site.github.contributors %}
-  <li class="d-inline-block mr-1">
-     <a href="{{ contributor.html_url }}"><img src="{{ contributor.avatar_url }}" width="32" height="32" alt="{{ contributor.login }}"/></a>
-  </li>
-{% endfor %}
-</ul>
-
-### Code of Conduct
-
-Just the Docs is committed to fostering a welcoming community.
-
-[View our Code of Conduct](https://github.com/pmarsceill/just-the-docs/tree/master/CODE_OF_CONDUCT.md) on our GitHub repository.
-
-![pycharm-logo](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/PyCharm-Icon.png?raw=true "Pycharm logo")
+![pycharm-logo](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/PyCharm-Icon-Small.png?raw=true "Pycharm logo")
