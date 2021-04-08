@@ -47,6 +47,7 @@ search.heading_level: 2
 
 ### Search previews
 
+
 A search result can contain previews that show where the search words are found in the specific section.
 
 ```yaml
