@@ -35,24 +35,27 @@ As seen above, parameters and return values are set automatically by PyCharm.
 4. Write out the type of parameter that the function takes in.
 5. Write out the type and description of what it returns.
 
-```
---------NOTE--------
-If the function does not return anything, there is no need to type out the information for "return".
-```
+  **CAUTION**
+  {: .label .label-yellow }
+      If the function does not return anything, 
+      there is no need to type out the information for "return".
+
 
 6. Type ">>>" to write out the function or variables needed for doctesting.
 7. Type out what is expected if you run the program to carry out the function.
 8. At the very end of the page, type out the following code:
-```
-if __name__ == '__main__':
-    main()
-    import doctest
 
+  ```
+  if __name__ == '__main__':
+      main()
+      import doctest
+  ```
 
---------NOTE--------
-If you type "main", PyCharm will give you an option to fill out "if __name__ == '__main__':...". 
-```
-7. There you have it! That's how you doctest in PyCharm.
+  **CAUTION**
+  {: .label .label-yellow }
+      If you type "main", PyCharm will give you an option to fill out "if __name__ == '__main__':...". 
+
+9. There you have it! That's how you doctest in PyCharm.
 
 
 ## Using "Generate..." for Unit Testing

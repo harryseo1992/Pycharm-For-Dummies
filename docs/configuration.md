@@ -38,7 +38,14 @@ If you succeeded, you can see the current version of your Python and after that,
 The three angled brackets indicates that you are using Python interpreter now.
 
 Let's print "Hello World" using Python.
-Enter "print("Hello World")" next to 
+Type "print("Hello World")" next to the angled brackets, and press *ENTER*.
+Then you will see "Hello World" is printed on your screen.
+![cmd-python-implementation2](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/3.cmd_hello_world.png?raw=true "Python implementation in cmd")
+
+If you successfully followed the steps all the way here, it means your Python is perfectly working.
+
+Type quit() to terminate Python in your Command Prompt.
+![cmd-python-implementation2](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/4.cmd_quit().png?raw=true "Python implementation in cmd")
 
 ## Designate Python to PyCharm
 
