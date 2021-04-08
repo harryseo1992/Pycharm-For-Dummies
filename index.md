@@ -39,7 +39,7 @@ This guide works with the following program versions noted below. Higher version
 
 1. Python 3.9.2 [Get the latest version](https://www.python.org/downloads/)
 2. Active JetBrains Student Account [Sign up for Student Account](https://account.jetbrains.com/login)
-3. PyCharm 2020.3.5 (Professional Edition) [Get the latest version](https://www.jetbrains.com/pycharm/download/)
+3. PyCharm 2021.1 (Professional Edition) [Get the latest version](https://www.jetbrains.com/pycharm/download/)
 4. Github Account [Sign up for Account](https://github.com/)
 5. Git 2.31.1 [Get the latest version](https://git-scm.com/)
 
@@ -68,13 +68,13 @@ The guide will cover the following basic tasks that are essential for beginners.
 
 ## Typographical Conventions
 
-The following icons will help orientate you throughout this guide. These icons include
+The following icons will be used to help orientate you throughout this guide.
 
-- Go
-- <span style="color:red">Stop</span>
-- Caution
-- Recommended
-- > Code blocks are used to 
-
+- GO {: .label .label-green }
+- Stop {: .label .label-red }
+- Caution {: .label .label-yellow }
+- Recommended {: .label .label-blue }
+- Menu navigation eg. **File** -> **New Window**
+- Menu options and buttons eg. *commit* button
 
 ![pycharm-logo](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/PyCharm-Icon-Small.png?raw=true "Pycharm logo")
