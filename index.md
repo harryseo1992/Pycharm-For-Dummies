@@ -27,9 +27,7 @@ Pycharm for dummies is a document with multiple walkthroughs to help people util
 
 Before we get started, we need to make sure you meet the system requirements for PyCharm. [Check the requirements here](https://www.msvu.ca/campus-life/campus-services/it-services/software-catalogue/pycharm/)
 
----
-
-## Intended Users
+### Intended Users
 
 This guide is intended for programming students looking for a professional IDE to take advantage of during their first python course. The guide assumes you have completed the following prerequisites. 
 
@@ -76,7 +74,7 @@ The following icons will help orientate you throughout this guide. These icons i
 - <span style="color:red">Stop</span>
 - Caution
 - Recommended
-- Code blocks
+- > Code blocks are used to 
 
 
 ![pycharm-logo](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/PyCharm-Icon-Small.png?raw=true "Pycharm logo")
