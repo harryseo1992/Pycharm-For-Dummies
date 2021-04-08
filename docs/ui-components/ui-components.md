@@ -1,14 +1,8 @@
 ---
 layout: default
-<<<<<<< HEAD
 title: Linking to Github
 nav_order: 3
-has_children: false
-=======
-title: UI Components
-# nav_order: 3
 has_children: true
->>>>>>> parent of 4c8c87f... Testing nav order
 permalink: /docs/ui-components
 ---
 
