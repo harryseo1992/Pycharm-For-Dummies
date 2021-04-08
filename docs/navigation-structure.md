@@ -38,7 +38,7 @@ As seen above, parameters and return values are set automatically by PyCharm.
 ```
 --------NOTE--------
 If the function does not return anything, there is no need to type out the information for "return".
----
+```
 
 6. Type ">>>" to write out the function or variables needed for doctesting.
 7. Type out what is expected if you run the program to carry out the function.
@@ -47,8 +47,8 @@ If the function does not return anything, there is no need to type out the infor
 if __name__ == '__main__':
     main()
     import doctest
-```
-```
+
+
 --------NOTE--------
 If you type "main", PyCharm will give you an option to fill out "if __name__ == '__main__':...". 
 ```
