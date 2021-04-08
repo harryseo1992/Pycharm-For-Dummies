@@ -25,11 +25,9 @@ Pycharm for dummies is a document with multiple walkthroughs to help people util
 
 ## Getting Started
 
-Before we get started, we need to make sure you meet the system requirements for PyCharm. [Check the requirements here](https://www.msvu.ca/campus-life/campus-services/it-services/software-catalogue/pycharm/)
-
-### Intended Users
-
 This guide is intended for programming students looking for a professional IDE to take advantage of during their first python course. The guide assumes you have completed the following prerequisites. 
+
+Before we get started, make sure you [meet the minimum system requirements](https://www.jetbrains.com/help/pycharm/installation-guide.html#requirements) for PyCharm.
 
 ---
 
@@ -76,22 +74,22 @@ Convention | Description
 *commit* button | Specific menu options / buttons
 
 
-
 GO 
 {: .label .label-green }
-Proceed to the next step
+  Proceed to the next step
 
 Stop 
 {: .label .label-red }
-Make sure you have done the following warning before continuing
+  Make sure you have done the following warning before continuing
 
 Caution 
 {: .label .label-yellow }
-Pay attention to the following warning to avoid problematic mistakes
+  Pay attention to the following warning to avoid problematic mistakes
 
 Recommended 
 {: .label .label-blue }
-Useful hints and tips
+  Useful hints and tips
+
 
 
 ![pycharm-logo](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/PyCharm-Icon-Small.png?raw=true "Pycharm logo")
