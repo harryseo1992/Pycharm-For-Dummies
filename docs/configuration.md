@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Configuration
+title: Setting up PyCharm
 nav_order: 2
 ---
 
-# Configuration
+# Setting up PyCharm
 {: .no_toc }
 
 
