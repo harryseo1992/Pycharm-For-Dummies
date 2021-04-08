@@ -70,8 +70,10 @@ The guide will cover the following basic tasks that are essential for beginners.
 
 The following icons will be used to help orientate you throughout this guide.
 
-- GO {: .label .label-green }
-- Stop {: .label .label-red }
+- GO 
+{: .label .label-green }
+- Stop 
+{: .label .label-red }
 - Caution {: .label .label-yellow }
 - Recommended {: .label .label-blue }
 - Menu navigation eg. **File** -> **New Window**
