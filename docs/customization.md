@@ -45,23 +45,22 @@ Before we start, double-click on PyCharm icon to run it.
 
 We have all experienced losing our saved work whether by forgetting where we have put them or messing up so bad the file got corrupted. It is also important to save your work when coding as well. To do that, you need to "commit" the changes you have made and "push" the changes to the repository you have cloned.
 
-![committing_changes](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/commit_highlighted.png?raw=true "committing changes")
-
 1. If you see your files change colour as highlighted above, it means there are changes made that is not saved.
+    ![committing_changes](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/commit_highlighted.png?raw=true "committing changes")
 
-![committing_changes](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/commit_button_highlighted.png?raw=true "committing changes")
 
 2. As highlighted above, you will see 3 shapes. Press the "Check-mark" shape to commit.
+    ![committing_changes](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/commit_button_highlighted.png?raw=true "committing changes")
 
-![committing_changes](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/commit_message_highlighted.png?raw=true "committing changes")
 
-3. Make sure to tick off the files you want to save. 
+3. Make sure to tick off the files you want to save.
+    ![committing_changes](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/commit_message_highlighted.png?raw=true "committing changes")
 
-![committing_changes](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/commit_message_filledout.png?raw=true "committing changes")
 
 4. Fill out the changes you have made to those files. Simple descriptions that others can understand what changes you have made are best.
+    ![committing_changes](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/commit_message_filledout.png?raw=true "committing changes")
 
-### STOP
+### **STOP**
 {: .label .label-yellow }
 
 ```
@@ -70,12 +69,12 @@ However, in order to save the changes you have made to a repository that you clo
 you must also "push" the changes you made as well. The next step will entail "pushing" changes.
 ```
 
-![committing_changes](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/commit_and_push.png?raw=true "committing changes")
-
 5. Press the downward arrow next to "commit" button.
-6. Press "commit and push". 
+    ![committing_changes](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/commit_and_push.png?raw=true "committing changes")
 
-![committing_changes](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/commit_and_push_finally_pushing.png?raw=true "committing changes")
+
+6. Press "commit and push". 
+    ![committing_changes](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/commit_and_push_finally_pushing.png?raw=true "committing changes")
 
 You will be led to a new window detailing what will be pushed.
 
