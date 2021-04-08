@@ -26,7 +26,7 @@ In Windows 10, you can check it using Command Prompt.
 
 Follow the order below to open Command Prompt in Windows 10.
 1. Press WIN(![windows-key](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/windows_logo.png?raw=true "windows key")) + R.
-2. As figure below shows, type "cmd" in the Run window and press **OK**.
+2. As figure below shows, type "cmd" in the Run window and press *OK*.
 ![cmd-run](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/run_cmd.png?raw=true "Run cmd")
 
 When you succeeded to open Command Prompt, you will see a window like below.
