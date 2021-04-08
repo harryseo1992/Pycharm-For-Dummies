@@ -46,8 +46,8 @@ We have all experienced losing our saved work whether by forgetting where we hav
 
     **CAUTION**
     {: .label .label-yellow }
-    You may choose to press *commit* here to simply commit the changes you have made. 
-    However, in order to **save** the changes you have made to a repository that you cloned from, you must also *push* the changes you made as well. The next step will entail *pushing* changes.
+            You may choose to press *commit* here to simply commit the changes you have made. 
+            However, in order to **save** the changes you have made to a repository that you cloned from, you must also *push* the changes you made as well. The next step will entail *pushing* changes.
    
 5. Press the downward arrow next to *commit button*.
 
@@ -65,5 +65,5 @@ We have all experienced losing our saved work whether by forgetting where we hav
 
     **Recommended**
     {: .label .label-blue } 
-    It is a good practice to commit and push often. Committing and pushing after coding a function is ideal.
+            It is a good practice to commit and push often. Committing and pushing after coding a function is ideal.
 

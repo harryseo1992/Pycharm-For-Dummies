@@ -33,7 +33,9 @@ Okay! Let's execute Python in Command Prompt next.
 In order to do so, type "python" in your Command Prompt like below.
 ![cmd-python-implementation](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/1.cmd_python_implementation.png?raw=true "Python implementation in cmd")
 
-If you succeeded, you will see 3 
+If you succeeded, you can see the current version of your Python and after that, you will see three close angled brackets(>>>).
+![cmd-python-implementation2](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/2.cmd_python_implementation_2.png?raw=true "Python implementation in cmd")
+The three angled brackets indicates that you are using Python interpreter now.
 
 
 
