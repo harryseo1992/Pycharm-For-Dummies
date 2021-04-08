@@ -45,7 +45,7 @@ This guide works with the following program versions noted below. Higher version
 
 ## System Requirements
 
-1. A functionaing computer that [meets the minimum requirements for PyCharm](https://www.jetbrains.com/help/pycharm/installation-guide.html#requirements)
+1. A functioning computer 
 2. Windows 10 Operating System
 3. Internet connection
 4. Basic computer knowledge
@@ -70,25 +70,25 @@ The following icons will be used to help orientate you throughout this guide.
 
 Convention | Description
 --- | ---
-**File** -> **New Window** | Specific menu navigation headings
-*commit* button | Specific menu options / buttons
+**Menu main heading** -> **Menu sub-heading** | Specific menu navigation headings
+*commit button* | Specific menu options / buttons
 
 
 GO 
 {: .label .label-green }
-  Proceed to the next step
+    Proceed to the next step
 
 Stop 
 {: .label .label-red }
-  Make sure you have done the following warning before continuing
+    Make sure you have done the following warning before continuing
 
 Caution 
 {: .label .label-yellow }
-  Pay attention to the following warning to avoid problematic mistakes
+    Pay attention to the following warning to avoid problematic mistakes
 
 Recommended 
 {: .label .label-blue }
-  Useful hints and tips
+    Useful hints and tips
 
 
 
