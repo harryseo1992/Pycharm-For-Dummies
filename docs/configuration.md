@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Setting up Pycharm
+title: Configuration
 nav_order: 2
 ---
 
