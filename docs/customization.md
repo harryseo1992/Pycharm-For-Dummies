@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Customization
+title: Working with Version Control
 nav_order: 6
 ---
 
-# Customization
+# Working with Version Control
 {: .no_toc }
 
 ## Table of contents
@@ -15,15 +15,36 @@ nav_order: 6
 
 ---
 
-## Color schemes
+Before we start, double-click on PyCharm icon to run it.
+
+## Cloning Repository
 {: .d-inline-block }
 
-New
-{: .label .label-green }
+![cloning_repository](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/clone_repository.png?raw=true "Cloning repository")
 
-Just the Docs supports two color schemes: light (default), and dark.
+1. Press "Get from version control" to clone repository from Github to your PyCharm.
 
-To enable a color scheme, set the `color_scheme` parameter in your site's `_config.yml` file:
+![cloning_repository_GitHub](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/clone_repository_github_press_code.png?raw=true "Get clone repo url from GitHub")
+
+2. Go back to GitHub and find the repository you want to clone. 
+3. Press the "Code" button to access the link.
+
+![cloning_repository_GitHub](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/clone_repository_github_press_code_copy_clipboard.png?raw=true "Get clone repo url from GitHub")
+
+4. Click on the highlighted "board" to copy the link.
+
+![cloning_repository](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/clone_repository1.png?raw=true "Cloning repository")
+
+5. Paste the link you got from GitHub in the highlighted section.
+
+![cloning_repository](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/clone_repository_choose_directory.png?raw=true "Cloning repository")
+
+6. Choose the directory folder that you wish to save the cloned property into.
+
+![cloning_repository](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/cloning_repository_press_clone.png?raw=true "Cloning repository")
+
+7. Press "clone". 
+8. Congrats! You successfully cloned a repository of your own choosing!
 
 #### Example
 {: .no_toc }
