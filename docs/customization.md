@@ -52,7 +52,7 @@ We have all experienced losing our saved work whether by forgetting where we hav
 ### Steps
 
 1. If you see your files change colour as highlighted below, it means there are changes made that is not saved.
-    
+
     ![committing_changes](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/commit_highlighted.png?raw=true "committing changes")
 
 
@@ -67,7 +67,7 @@ We have all experienced losing our saved work whether by forgetting where we hav
 4. Fill out the changes you have made to those files. Simple descriptions that others can understand what changes you have made are best.
     ![committing_changes](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/commit_message_filledout.png?raw=true "committing changes")
 
-## **STOP**
+**STOP**
 {: .label .label-yellow }
 
 ```
@@ -82,8 +82,7 @@ you must also "push" the changes you made as well. The next step will entail "pu
 
 6. Press "commit and push". 
     ![committing_changes](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/commit_and_push_finally_pushing.png?raw=true "committing changes")
-
-You will be led to a new window detailing what will be pushed.
+    You will be led to a new window detailing what will be pushed.
 
 7. Press "push"
 8. Congratulations! You committed and pushed the changes you made to the files! 
