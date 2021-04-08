@@ -39,12 +39,12 @@ We have all experienced losing our saved work whether by forgetting where we hav
 4. Fill out the changes you have made to those files. Simple descriptions that others can understand what changes you have made are best.
     ![committing_changes](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/commit_message_filledout.png?raw=true "committing changes")
 
-
-> **STOP**
+```
+**STOP**
 {: .label .label-yellow }
 You may choose to press *commit* here to simply commit the changes you have made. 
 However, in order to **save** the changes you have made to a repository that you cloned from, you must also *push* the changes you made as well. The next step will entail *pushing* changes.
-
+```
 
 5. Press the downward arrow next to *commit* button.
     ![committing_changes](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/commit_and_push.png?raw=true "committing changes")
