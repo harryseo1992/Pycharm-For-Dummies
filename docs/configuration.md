@@ -54,8 +54,9 @@ Let's move on to the next step!
 
 ## Create a New Project in PyCharm
 In this stage, you will be able to create a new project in your PyCharm.
+
 1. Open your PyCharm and click *New Project* button.
-![PyCharm-starting-page](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/5.PyCharm_Starting_Page.png?raw=true "PyCharm starting page")
+    ![PyCharm-starting-page](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/5.PyCharm_Starting_Page.png?raw=true "PyCharm starting page")
 
 2. Click the arrow as is shown in the first red box.
 Then, click the *etc* button (...) if you cannot see any interpreter.
@@ -64,7 +65,7 @@ Then, click the *etc* button (...) if you cannot see any interpreter.
     {: .label .label-green }
         If you can see an interpreter as figure below, GO STRAIGHT TO STEP 5
 
-![Creating-new-project-1](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/7.click_down_arrow.png?raw=true "Creating new project")
+    ![Creating-new-project-1](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/7.click_down_arrow.png?raw=true "Creating new project")
 
 3. Select *System Interpreter* from the left navigation bar, and click the *etc* button (...).
 Then, find the path to *python.exe* file. It is usually in **C:\Users\[YOUR_USER_NAME\]\AppData\Local\Programs\Python\Python38\python.exe**.
@@ -74,13 +75,13 @@ Then, find the path to *python.exe* file. It is usually in **C:\Users\[YOUR_USER
         The number with Python (e.g., Python38) may vary depending on the Python version that you installed.
 
 When you find your *python.exe* file, click *OK* button.
-![Creating-new-project-2](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/8.find_interpreter.png?raw=true "Creating new project 2")
+    ![Creating-new-project-2](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/8.find_interpreter.png?raw=true "Creating new project 2")
 
 4. Double check that you can see the interpreter correctly, and press *OK* button.
-![Creating-new-project-3](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/9.Interpreter_found.png?raw=true "Creating new project 3")
+    ![Creating-new-project-3](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/9.Interpreter_found.png?raw=true "Creating new project 3")
 
 5. Press *Create* button, then you get a new project in your PyCharm.
-![Creating-new-project-4](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/10.create_new_project.png?raw=true "Creating new project 4")
+    ![Creating-new-project-4](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/10.create_new_project.png?raw=true "Creating new project 4")
 
 ## Create .py File into the Project
 After you create a new project, you will see a window like figure below.
