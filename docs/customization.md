@@ -30,7 +30,7 @@ We have all experienced losing our saved work whether by forgetting where we hav
     ![committing_changes](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/commit_highlighted.png?raw=true "committing changes")
 
 
-2. As highlighted above, you will see 3 shapes. Press the *Check-mark shape* to commit.
+2. As highlighted below, you will see 3 shapes. Press the *Check-mark shape* to commit.
 
     ![committing_changes](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/commit_button_highlighted.png?raw=true "committing changes")
 
