@@ -39,7 +39,9 @@ If you succeeded, you can see the current version of your Python and after that,
 The three angled brackets indicates that you are using Python interpreter now.
 
 Let's print **Hello World** using Python.
+
 Type **print("Hello World")** next to the angled brackets, and press *ENTER*.
+
 Then you will see **Hello World** is printed on your screen.
 ![cmd-hello-world](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/3.cmd_hello_world.png?raw=true "Print hello world in cmd")
 
@@ -56,31 +58,36 @@ Let's move on to the next step!
 In this stage, you will be able to create a new project in your PyCharm.
 
 1. Open your PyCharm and click *New Project* button.
+
     ![PyCharm-starting-page](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/5.PyCharm_Starting_Page.png?raw=true "PyCharm starting page")
 
 2. Click the arrow as is shown in the first red box.
-Then, click the *etc* button (...) if you cannot see any interpreter.
-   
-    **GO**
-    {: .label .label-green }
-        If you can see an interpreter as figure below, GO STRAIGHT TO STEP 5
 
-    ![Creating-new-project-1](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/7.click_down_arrow.png?raw=true "Creating new project")
+    Then, click the *etc* button (...) if you cannot see any interpreter.
+    
+        **GO**
+        {: .label .label-green }
+            If you can see an interpreter as figure below, GO STRAIGHT TO STEP 5
+
+        ![Creating-new-project-1](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/7.click_down_arrow.png?raw=true "Creating new project")
 
 3. Select *System Interpreter* from the left navigation bar, and click the *etc* button (...).
-Then, find the path to *python.exe* file. It is usually in **C:\Users\[YOUR_USER_NAME\]\AppData\Local\Programs\Python\Python38\python.exe**.
-    
-    **CAUTION**
-    {: .label .label-yellow }
-        The number with Python (e.g., Python38) may vary depending on the Python version that you installed.
 
-When you find your *python.exe* file, click *OK* button.
-    ![Creating-new-project-2](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/8.find_interpreter.png?raw=true "Creating new project 2")
+    Then, find the path to *python.exe* file. It is usually in **C:\Users\[YOUR_USER_NAME\]\AppData\Local\Programs\Python\Python38\python.exe**.
+        
+        **CAUTION**
+        {: .label .label-yellow }
+            The number with Python (e.g., Python38) may vary depending on the Python version that you installed.
+
+        When you find your *python.exe* file, click *OK* button.
+        ![Creating-new-project-2](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/8.find_interpreter.png?raw=true "Creating new project 2")
 
 4. Double check that you can see the interpreter correctly, and press *OK* button.
+
     ![Creating-new-project-3](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/9.Interpreter_found.png?raw=true "Creating new project 3")
 
 5. Press *Create* button, then you get a new project in your PyCharm.
+
     ![Creating-new-project-4](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/10.create_new_project.png?raw=true "Creating new project 4")
 
 ## Create .py File into the Project
@@ -89,18 +96,18 @@ After you create a new project, you will see a window like figure below.
 
 Now, let's create a **.py** file.
 1. Right click the project directory, hover on **New** and **Python File** sequentially.
-![Creating-py-file-2](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/12.create_new_python_file.png?raw=true "Createing py file 2")
+    ![Creating-py-file-2](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/12.create_new_python_file.png?raw=true "Createing py file 2")
 
 2. Name your new .py file. (HelloWorld in this example.)
-![Creating-py-file-3](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/13.creating_py_file.png?raw=true "Createing py file 3")
+    ![Creating-py-file-3](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/13.creating_py_file.png?raw=true "Createing py file 3")
 
 ## Run Your .py File
 
 1. Type your Python code like **print("Hello World")**, right click on your screen, and click *Run \[YOUR_FILE_NAME\]*
-![Run-your-py-file-1](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/14.run_py_file.png?raw=true "Run your py file 1")
+    ![Run-your-py-file-1](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/14.run_py_file.png?raw=true "Run your py file 1")
 
 2. Then you will see the result of the execution.
-![Run-your-py-file-2](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/15.after_run.png?raw=true "Run your py file 2")
+    ![Run-your-py-file-2](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/15.after_run.png?raw=true "Run your py file 2")
 
 Congratulation!!! You successfully finished setting up your PyCharm.
 
