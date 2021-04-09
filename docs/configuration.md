@@ -65,9 +65,9 @@ In this stage, you will be able to create a new project in your PyCharm.
 
     Then, click the *etc* button (...) if you cannot see any interpreter.
     
-        **GO**
-        {: .label .label-green }
-            If you can see an interpreter as figure below, GO STRAIGHT TO STEP 5
+    **GO**
+    {: .label .label-green }
+        If you can see an interpreter as figure below, GO STRAIGHT TO STEP 5
 
     ![Creating-new-project-1](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/7.click_down_arrow.png?raw=true "Creating new project")
 
@@ -75,9 +75,9 @@ In this stage, you will be able to create a new project in your PyCharm.
 
     Then, find the path to *python.exe* file. It is usually in **C:\Users\[YOUR_USER_NAME\]\AppData\Local\Programs\Python\Python38\python.exe**.
 
-        **CAUTION**
-        {: .label .label-yellow }
-            The number with Python (e.g., Python38) may vary depending on the Python version that you installed.
+    **CAUTION**
+    {: .label .label-yellow }
+        The number with Python (e.g., Python38) may vary depending on the Python version that you installed.
 
     When you find your *python.exe* file, click *OK* button.
     ![Creating-new-project-2](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/8.find_interpreter.png?raw=true "Creating new project 2")
