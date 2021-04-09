@@ -19,8 +19,8 @@ Just the Docs has some specific configuration parameters that can be defined in 
 
 ---
 
-## Check Python Is Working
-If you successfully installed Python, Git, and PyCharm, the first thing you need to do is to check your Python program is working.
+## Check if Python is Working
+If you successfully installed Python, Git, and PyCharm, the first thing you need to do is to check if your Python program is working.
 
 In Windows 10, you can check it using Command Prompt.
 
@@ -30,26 +30,26 @@ Follow the order below to open Command Prompt in Windows 10.
 2. As figure below shows, type **cmd** in the Run window and press *OK*.
     ![cmd-run](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/run_cmd.png?raw=true "Run cmd")
 
-    Okay! Let's execute Python in Command Prompt next.
-    In order to do so, type "python" in your Command Prompt like below.
+3. Okay! Let's execute Python in Command Prompt next.
+In order to do so, type "python" in your Command Prompt like below.
     ![cmd-python-implementation](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/1.cmd_python_implementation.png?raw=true "Python implementation in cmd")
 
-    If you succeeded, you can see the current version of your Python and after that, you will see three close angled brackets(```>>>```).
+4. If you succeeded, you can see the current version of your Python and after that, you will see three close angled brackets(```>>>```).
     ![cmd-python-implementation2](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/2.cmd_python_implementation_2.png?raw=true "Python implementation in cmd")
     The three angled brackets indicates that you are using Python interpreter now.
 
-    Let's print **Hello World** using Python.
+5. Let's print **Hello World** using Python.
 
-    Type **print("Hello World")** next to the angled brackets, and press *ENTER*.
+    * Type **print("Hello World")** next to the angled brackets, and press *ENTER*.
 
-    Then you will see **Hello World** is printed on your screen.
+    * Then you will see **Hello World** is printed on your screen.
     ![cmd-hello-world](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/3.cmd_hello_world.png?raw=true "Print hello world in cmd")
 
     **GO**
     {: .label .label-green }
         If you successfully followed the steps all the way here, it means your Python is perfectly working.
 
-    Type **quit()** to terminate Python in your Command Prompt.
+6. Type **quit()** to terminate Python in your Command Prompt.
     ![cmd-quit](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/4.cmd_quit().png?raw=true "Quit Python from cmd")
 
     Let's move on to the next step!
@@ -63,7 +63,7 @@ In this stage, you will be able to create a new project in your PyCharm.
 
 2. Click the arrow as is shown in the first red box.
 
-    Then, click the *etc* button (...) if you cannot see any interpreter.
+    Then, click the *etc* button (```...```) if you cannot see any interpreter.
     
     **GO**
     {: .label .label-green }
@@ -71,7 +71,7 @@ In this stage, you will be able to create a new project in your PyCharm.
 
     ![Creating-new-project-1](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/7.click_down_arrow.png?raw=true "Creating new project")
 
-3. Select *System Interpreter* from the left navigation bar, and click the *etc* button (...).
+3. Select *System Interpreter* from the left navigation bar, and click the *etc* button (```...```).
 
     Then, find the path to *python.exe* file. It is usually in **C:\Users\[YOUR_USER_NAME\]\AppData\Local\Programs\Python\Python38\python.exe**.
 
@@ -109,6 +109,6 @@ Now, let's create a **.py** file.
 2. Then you will see the result of the execution.
     ![Run-your-py-file-2](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/15.after_run.png?raw=true "Run your py file 2")
 
-Congratulation!!! You successfully finished setting up your PyCharm.
+Congratulations!!! You successfully finished setting up your PyCharm.
 
-Next, try to follow [Linking to Github](#ui-components) if you want to use PyCharm more efficiently.
+Next, try to follow [Linking to Github](#linking-to-github) if you want to use PyCharm more efficiently.
