@@ -7,14 +7,11 @@ permalink: /docs/ui-components
 ---
 
 # Linking to Github
+{: .no_toc}
 PyCharm allows you to connect your GitHub account and manage your GitHub projects directly from PyCharm.
-This handy function saves you time when working on your projects without having to log in again to GitHub.
 
-This section will walk you through the following:
-1. Connecting yout GitHub account
-2. Connecting multiple GitHub accounts
-3. Sharing your project on GitHub
-4. Cloning an existing project to PyCharm
+This handy function saves you time when working on your projects without having to log in again to GitHub.
+{: .fs-6 .fw-300 }
 
 ---
 ## TABLE OF CONTENTS
@@ -25,7 +22,7 @@ This section will walk you through the following:
 
 Recommended
 {: .label .label-blue} 
-    Make sure you have an existing GitHub account before proceeding
+    Make sure you have an existing GitHub account before proceeding.
 
 ## Connect your GitHub account
 

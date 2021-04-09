@@ -21,6 +21,8 @@ nav_order: 6
 
 We have all experienced losing our saved work whether by forgetting where we have put them or messing up so bad the file got corrupted. It is also important to save your work when coding as well. To do that, you need to *commit* the changes you have made and *push* the changes to the repository you have cloned.
 
+**See if you can add resolving conflicts parts, manage change lists, or hell pull options as well**
+
 ### Steps
 
 1. If you see your files change colour as highlighted below, it means there are changes made that is not saved.
@@ -68,4 +70,16 @@ We have all experienced losing our saved work whether by forgetting where we hav
     {: .label .label-blue } 
             It is a good practice to commit and push often.   
             Committing and pushing after coding a function is ideal.
+
+---
+
+## Pull from Existing Repository
+
+### Steps
+
+1. 
+
+---
+
+## Managing Git Branches
 
