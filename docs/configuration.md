@@ -8,7 +8,8 @@ nav_order: 2
 {: .no_toc }
 
 
-Just the Docs has some specific configuration parameters that can be defined in your Jekyll site's _config.yml file.
+Before write actual code with PyCharm, you need to make a basic setup for PyCharm.
+You will be able to make a new project in your PyCharm and Python file by successfully follow the steps below.
 {: .fs-6 .fw-300 }
 
 ## Table of contents
