@@ -21,13 +21,13 @@ Troubleshooting description
 
 # Add Python to PATH
 
-If your Python is not on your **PATH**{: .label .label-black } your Python will not be working in your Command Prompt.
+If your Python is not on your **PATH** your Python will not be working in your Command Prompt.
 
-You **MUST** place your Python program on your **PATH**{: .label .label-black }.
+You **MUST** place your Python program on your **PATH**.
 
 Let's do it!!
 
-1. Search for **python.exe**{: .label .label-black } using Windows search like figure below. Then, **right click** the search result, and click *Open file location*.
+1. Search for **python.exe** using Windows search like figure below. Then, **right click** the search result, and click *Open file location*.
 
     ![Find-Python](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/find_python.png?raw=true "Find Python")
 
