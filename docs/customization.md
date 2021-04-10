@@ -32,10 +32,17 @@ As you learn how to code, you soon realize that there will be a lot of group cod
     
     ![merging](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/merge_project.png?raw=true "Merge project")
 
+    **Recommended**
+    {: .label .label-blue } 
+            _Rebase the current branch on top of incoming changes_ will 
+            also integrate changes from one branch to another. However, rebasing
+            can be dangerous because it can **rewrite history** of shared branches.
+            Therefore, it is better to _Merge incoming changes_ instead.
+
 3. Press _Ok_.
 
 4. Congratulations! You should see a pop-up that indicates successful project update.
-    ![success](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/merge_project.png?raw=true "Merge project")
+    ![success](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/update_success.png?raw=true "Updated project")
 ---
 
 ## Committing and Pushing Changes
@@ -94,6 +101,11 @@ We have all experienced losing our saved work whether by forgetting where we hav
             It is a good practice to commit and push often.   
             Committing and pushing after coding a function is ideal.
 
+**CAUTION**
+{: .label .label-yellow }
+        If you have run into this error below, it means the repository has changes that your local files have not received yet. You can **press _Merge_** here to push and update your current files. However, it is good practice to pull first before committing and pushing.
+
+    ![merge_conflict](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/update_conflict.png?raw=true "conflict")
 ---
 
 ## Managing Git Branches
