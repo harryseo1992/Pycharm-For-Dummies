@@ -48,7 +48,8 @@ Let's do it!!
 
     **CAUTION**
       {: .label .label-yellow }
-          DO NOT get confused with Path in System variables (at the bottom). You MUST choose Path in User variable (at the top).
+          DO NOT get confused with Path in System variables (at the bottom).
+          You MUST choose Path in User variable (at the top).
 
     ![Changing-path-1](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/changing_path.png?raw=true "Changing path 1")
 
