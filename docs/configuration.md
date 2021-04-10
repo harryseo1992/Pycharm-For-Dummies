@@ -40,9 +40,7 @@ Follow the order below to open Command Prompt in Windows 10.
     **CAUTION**
     {: .label .label-yellow }
         If you failed to execute Python program in your Command Prompt, you MUST add Python to Windows PATH.
-    
-
-    To add Python to Windows PATH, see [Here](https://harryseo1992.github.io/Pycharm-For-Dummies/docs/index-test/#add-python-to-path).
+        To add Python to Windows PATH, see [Here](https://harryseo1992.github.io/Pycharm-For-Dummies/docs/index-test/#add-python-to-path).
 
     ![cmd-python-implementation2](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/2.cmd_python_implementation_2.png?raw=true "Python implementation in cmd")
     The three angled brackets indicates that you are using Python interpreter now.
