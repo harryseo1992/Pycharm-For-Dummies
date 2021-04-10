@@ -42,7 +42,7 @@ As you learn how to code, you soon realize that there will be a lot of group cod
 3. Press _Ok_.
 
 4. Congratulations! You should see a pop-up that indicates successful project update.
-    ![success](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/update_success.png?raw=true "Updated project")
+    ![success](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/update_success_real.png?raw=true "Updated project")
 ---
 
 ## Committing and Pushing Changes
@@ -78,9 +78,9 @@ We have all experienced losing our saved work whether by forgetting where we hav
 
     **CAUTION**
     {: .label .label-yellow }
-            You may choose to press *commit* here to simply commit the changes you have made. 
-            However, in order to **save** the changes you have made to a repository that you cloned from,    
-            you must also *push* the changes you made as well. The next step will entail *pushing* changes.
+            You may choose to press "commit" here to simply commit the changes you have made. 
+            However, in order to SAVE the changes you have made to a repository that you cloned from,    
+            you must also "push" the changes you made as well. The next step will entail "pushing" changes.
    
 5. Press the downward arrow next to *commit button*.
 
@@ -103,9 +103,12 @@ We have all experienced losing our saved work whether by forgetting where we hav
 
 **CAUTION**
 {: .label .label-yellow }
-        If you have run into this error below, it means the repository has changes that your local files have not received yet. You can **press _Merge_** here to push and update your current files. However, it is good practice to pull first before committing and pushing.
+        If you have run into this error below, it means the repository 
+        has changes that your local files have not received yet. 
+        You can press "Merge" here to push and update your current files. 
+        However, it is good practice to pull first before committing and pushing.
 
-    ![merge_conflict](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/update_conflict.png?raw=true "conflict")
+![merge_conflict](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/update_conflict.png?raw=true "conflict")
 ---
 
 ## Managing Git Branches
