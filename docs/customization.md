@@ -94,18 +94,19 @@ We have all experienced losing our saved work whether by forgetting where we hav
 
 8. Congratulations! You committed and pushed the changes you made to the files! 
 
-    **Recommended**
-    {: .label .label-blue } 
-            It is a good practice to commit and push often.   
-            Committing and pushing after coding a function is ideal.
+        **Recommended**
+        {: .label .label-blue } 
+                It is a good practice to commit and push often.   
+                Committing and pushing after coding a function is ideal.
 
-    **CAUTION**
-    {: .label .label-yellow }
 
-            If you have run into this error below, it means the repository 
-            has changes that your local files have not received yet. 
-            You can press "Merge" here to push and update your current files. 
-            However, it is good practice to pull first before committing and pushing.
+        **CAUTION**
+        {: .label .label-yellow }
+
+                If you have run into this error below, it means the repository 
+                has changes that your local files have not received yet. 
+                You can press "Merge" here to push and update your current files. 
+                However, it is good practice to pull first before committing and pushing.
 
         ![merge_conflict](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/merge_conflict.png?raw=true "conflict")
 ---
