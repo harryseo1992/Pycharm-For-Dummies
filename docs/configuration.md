@@ -37,6 +37,11 @@ Follow the order below to open Command Prompt in Windows 10.
 
 4. If you succeeded, you can see the current version of your Python and after that, you will see three close angled brackets(```>>>```).
 
+    **CAUTION**
+    {: .label .label-yellow }
+        If you failed to execute Python program in your Command Prompt, you MUST add Python to Windows PATH.
+        To do so, see [Here](https://harryseo1992.github.io/Pycharm-For-Dummies/docs/index-test/#add-python-to-path).
+
     ![cmd-python-implementation2](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/2.cmd_python_implementation_2.png?raw=true "Python implementation in cmd")
     The three angled brackets indicates that you are using Python interpreter now.
 
@@ -121,4 +126,4 @@ Now, let's create a **.py** file.
 
 Congratulations!!! You successfully finished setting up your PyCharm.
 
-Next, try to follow [Linking to Github](#linking-to-github) if you want to use PyCharm more efficiently.
+Next, try to follow [Linking to Github](https://harryseo1992.github.io/Pycharm-For-Dummies/docs/ui-components) if you want to use PyCharm more efficiently.
