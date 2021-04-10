@@ -34,9 +34,9 @@ As you learn how to code, you soon realize that there will be a lot of group cod
 
     **Recommended**
     {: .label .label-blue } 
-            _Rebase the current branch on top of incoming changes_ will 
+            "Rebase the current branch on top of incoming changes" will 
             also integrate changes from one branch to another. However, rebasing
-            can be dangerous because it can **rewrite history** of shared branches.
+            can be dangerous because it can "rewrite history" of shared branches.
             Therefore, it is better to _Merge incoming changes_ instead.
 
 3. Press _Ok_.
@@ -50,8 +50,6 @@ As you learn how to code, you soon realize that there will be a lot of group cod
 ### Introduction
 
 We have all experienced losing our saved work whether by forgetting where we have put them or messing up so bad the file got corrupted. It is also important to save your work when coding as well. To do that, you need to *commit* the changes you have made and *push* the changes to the repository you have cloned.
-
-**See if you can add resolving conflicts parts, manage change lists, or hell pull options as well**
 
 ### Steps
 
