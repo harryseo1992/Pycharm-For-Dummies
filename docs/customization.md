@@ -101,6 +101,7 @@ We have all experienced losing our saved work whether by forgetting where we hav
 
 **CAUTION**
 {: .label .label-yellow }
+
         If you have run into this error below, it means the repository 
         has changes that your local files have not received yet. 
         You can press "Merge" here to push and update your current files. 
