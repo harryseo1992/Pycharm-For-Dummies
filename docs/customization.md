@@ -15,6 +15,29 @@ nav_order: 6
 
 --- 
 
+## Pull from Existing Repository
+
+### Introduction
+
+As you learn how to code, you soon realize that there will be a lot of group coding involved. As such, it is important to be aware of certain practices when it comes to version control. One of them happens to be **_"Pull first, make changes and commit later"_**. Therefore, we will go over how to pull first before we get to committing and pushing changes.
+
+### Steps
+
+1. From the same three shapes, press the _update project button_.
+    
+    ![pulling](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/update_project.png?raw=true "Update project button")
+
+
+2. Check off _Merge incoming changes into the current branch_.
+    
+    ![merging](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/merge_project.png?raw=true "Merge project")
+
+3. Press _Ok_.
+
+4. Congratulations! You should see a pop-up that indicates successful project update.
+    ![success](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/merge_project.png?raw=true "Merge project")
+---
+
 ## Committing and Pushing Changes
 
 ### Introduction
@@ -70,14 +93,6 @@ We have all experienced losing our saved work whether by forgetting where we hav
     {: .label .label-blue } 
             It is a good practice to commit and push often.   
             Committing and pushing after coding a function is ideal.
-
----
-
-## Pull from Existing Repository
-
-### Steps
-
-1. 
 
 ---
 

@@ -77,7 +77,7 @@ In this stage, you will be able to create a new project in your PyCharm.
 
 3. Select *System Interpreter* from the left navigation bar, and click the *etc* button (```...```).
 
-    Then, find the path to *python.exe* file. It is usually in **C:\Users\[YOUR_USER_NAME\]\AppData\Local\Programs\Python\Python38\python.exe**.
+    Then, find the path to *python.exe* file. It is usually in **C:\Users\\\[YOUR_USER_NAME\]\AppData\Local\Programs\Python\Python38\python.exe**.
 
     **CAUTION**
     {: .label .label-yellow }

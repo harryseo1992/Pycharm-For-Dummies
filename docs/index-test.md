@@ -19,9 +19,17 @@ Troubleshooting description
 
 ---
 
-# Question 1
+# Add Python to PATH
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+If your Python is not on your **PATH**{: .label .label-black } your Python will not be working in your Command Prompt.
+
+You **MUST** place your Python program on your **PATH**{: .label .label-black }.
+
+Let's do it!!
+
+1. Find the file location of your **python.exe**{: .label .label-black }. It is usally located in **C:\Users\\\[YOUR_USER_NAME\]\AppData\Local\Programs\Python\Python38**.
+
+
 
 # Question 2
 
