@@ -29,16 +29,20 @@ nav_order: 7
 
 #### Multiple description terms and values
 
-Term
-: Brief description of Term
+Windows PATH
+: The PATH is the system variable that your operating system uses to locate needed executables from the command line or Terminal window.
 
-Longer Term
-: Longer description of Term,
-  possibly more than one line
+Environment variables
+: An environment variable is a dynamic "object" on a computer, containing an editable value, which may be used by one or more software programs in Windows. Environment variables help programs know what directory to install files in, where to store temporary files, and where to find user profile settings.
 
-Term
-: First description of Term,
-  possibly more than one line
+cmd
+: Microsoft Windows command that opends Command Prompt.
+
+Interpreter
+:  An interpreter is a program that reads and executes code.
+
+.py file
+: The file extension for the file containing python script.
 
 : Second description of Term,
   possibly more than one line

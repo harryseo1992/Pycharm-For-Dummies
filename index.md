@@ -90,10 +90,6 @@ Recommended
 {: .label .label-blue }
     Useful hints and tips
 
-Jagon or command
-{: .label .label-black }
-    The highlighted word is a jargon or command. Check the Glossary section to find out its meaning
-
 Each guide will have steps and a screenshot / screenshots to follow through the steps to provide more detail. 
 For example:
 
