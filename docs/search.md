@@ -44,9 +44,6 @@ Interpreter
 .py file
 : The file extension for the file containing python script.
 
-: Second description of Term,
-  possibly more than one line
-
 Term1
 Term2
 : Single description of Term1 and Term2,
