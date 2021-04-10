@@ -53,11 +53,11 @@ Let's do it!!
 
     ![Changing-path-1](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/changing_path.png?raw=true "Changing path 1")
 
-6. Click *New* button and type the address that you copied from step 2. Click *New* button again, type the address again, and add **Scripts\\**{: .label .label-black } at the end. Click *OK* when you done with adding two paths.
+6. Click *New* button and type the address that you copied from step 2. Click *New* button again, type the address again, and add **Scripts\\** at the end. Click *OK* when you done with adding two paths.
 
     ![Changing-path-2](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/changing_path_2.png?raw=true "Changing path 2")
 
-7. By clicking *OK* again, You will successfully add your Python on **PATH**{: .label .label-black }.
+7. By clicking *OK* again, You will successfully add your Python on **PATH**.
 
     ![Changing-path-3](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/changing_path_3.png?raw=true "Changing path 3")
 
