@@ -41,6 +41,7 @@ As you learn how to code, you soon realize that there will be a lot of group cod
 Congratulations! You should see a pop-up that indicates successful project update.
 
     ![success](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/update_success_real.png?raw=true "Updated project")
+
 ---
 
 ## Committing and Pushing Changes       
@@ -56,7 +57,7 @@ If you see your files change colour as highlighted below, it means there are cha
 ![committing_changes](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/commit_highlighted.png?raw=true "committing changes")
 
 
-As highlighted below, you will see 3 shapes.
+As highlighted below, you will see 3 shapes on the top right of your PyCharm.
 
 1. Press the *Check-mark shape* to commit.
 
@@ -92,6 +93,8 @@ As highlighted below, you will see 3 shapes.
 
 
 Congratulations! You committed and pushed the changes you made to the files! 
+
+---
 
 **Recommended**
 {: .label .label-blue } 
