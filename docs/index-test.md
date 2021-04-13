@@ -62,7 +62,7 @@ Let's do it!!
     ![Changing-path-3](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/changing_path_3.png?raw=true "Changing path 3")
 
 # Cannot directly Log-in to GitHub Account.
-If you are unable to log-in with your GitHub account credentials. [Try logging-in with a personal access token.](./ui-components/ui-components.md)
+If you are unable to log-in with your GitHub account credentials. [Try logging-in with a personal access token.](./ui-components/ui-components.md#option-b---log-in-with-personal-access-token)
 
 # Problem 3
 
