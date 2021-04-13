@@ -40,7 +40,7 @@ As you learn how to code, you soon realize that there will be a lot of group cod
 
 Congratulations! You should see a pop-up that indicates successful project update.
 
-    ![success](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/update_success_real.png?raw=true "Updated project")
+![success](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/update_success_real.png?raw=true "Updated project")
 
 ---
 
