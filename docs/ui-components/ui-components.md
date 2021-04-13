@@ -19,8 +19,7 @@ PyCharm allows you to connect your GitHub account and manage your GitHub project
 ---
 
 **Recommended**
-    {: .label .label-blue} 
-
+{: .label .label-blue } 
    > Make sure you have an existing GitHub account before proceeding.
 
 ## Connect your GitHub account
@@ -33,8 +32,7 @@ PyCharm allows you to connect your GitHub account and manage your GitHub project
 3. Choose and click on either Option A or Option B to log-in to your GitHub account.
 
 **Stop**
-    {: .label .label-yellow} 
-    
+{: .label .label-yellow } 
    > PyCharm provides two options to add a GitHub account.
    > 
    > A) Log-in with your GitHub credentials
@@ -44,8 +42,7 @@ PyCharm allows you to connect your GitHub account and manage your GitHub project
 ![Connect-GitHub-Account-Step3](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/Link-GitHub-AccountLogIn-3.png?raw=true "Log-in Options A and B")
     
 **Recommended**
-    {: .label .label-blue}
-
+{: .label .label-blue }
 > This guide recommends **Option A** as this option is the quickest method. Option B serves as an alternative method should you fail to log-in with Option A.
     
  -  ### Option A - Log-in with GitHub Credentials ###
@@ -59,41 +56,40 @@ PyCharm allows you to connect your GitHub account and manage your GitHub project
       2. Click on your profile picture located at the top right corner and click on **Settings** to access your account settings.
       
       ![GitHub-Account-Settings](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/Link-GitHub-AccessTokens-1.png?raw=true "GitHub Account Settings")
-     
       3. Click on **Developer Settings** located at the bottom of **Account Settings**.
  
       ![Developer-Settings](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/Link-GitHub-AccessTokens-2.png?raw=true "Developer Settings")
-     
+      
       4. Click on **Personal access tokens** -> **Generate new token**.
      
       ![Generate-New-Token](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/Link-GitHub-AccessTokens-3.png?raw=true "Generate New Token")
      
       5. Create a suitable name for this access token (eg. pyCharmToken). Check the box for the following scope options: **repo**, **workflow**, **read:org**, and **gist**.
       
-      **STOP**
-      {: .label .label-red }
-      > Make sure that **repo**, **workflow**, **read:org**, and **gist** are checked off. The access token may not work correctly if these four scope options are not selected.
-      
       ![Access-Token-Settings](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/Link-GitHub-AccessTokens-4.png?raw=true "Access Token Settings")
-     
-      6. Press **Generate Token** to confirm your access token settings.
-    
-      7. Copy the access token by clicking on the <span style="color:blue">blue clipboard icon</span>.
-     
-     **CAUTION**
-     {: .label .label-yellow }
-     > Keep your access tokens confidential as the tokens provide access to your GitHub account!
-     > 
-     > For security reasons, this newly generated token is **ONE TIME ACCESS** only. Ensure you have copied the key or you will have to generate another access token.
-     
-      ![Copy-Access-Token](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/Link-GitHub-AccountLogIn-5.png?raw=true "Copy Access Token")
       
-      8. In PyCharm, click **Log in with Token...**.
-      9. Paste your access token in the box and presss **Add Account**. 
+**STOP**
+{: .label .label-red }
+
+> Make sure that **repo**, **workflow**, **read:org**, and **gist** are checked off. The access token may not work correctly if these four scope options are not selected.
+>   
+     6. Press **Generate Token** to confirm your access token settings.
+     7. Copy the access token by clicking on the <span style="color:blue">blue clipboard icon</span>.
+     
+**CAUTION**
+{: .label .label-yellow }
+> Keep your access tokens confidential as the tokens provide access to your GitHub account!
+> 
+> For security reasons, this newly generated token is **ONE TIME ACCESS** only. Ensure you have copied the key or you will have to generate another access token.
+     
+![Copy-Access-Token](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/Link-GitHub-AccessTokens-5.png?raw=true "Copy Access Token")
       
-      ![Paste-Access-Token](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/Link-GitHub-AccountLogIn-3.png?raw=true "Paste Access Token")
-      
-      10. **[Go to step 4.]**
+8. In PyCharm, click **Log in with Token...**.
+9. Paste your access token in the box and presss **Add Account**. 
+
+![Paste-Access-Token](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/Link-GitHub-AccountLogIn-4.png?raw=true "Paste Access Token")
+
+10. **[Go to step 4.]**
 
 4. Success, your GitHub account has been linked! Confirm your GitHub account details that are displayed next to the light blue arrow. Press **Apply** and press **OK** to save your changes. 
 ![Connect-GitHub-Account-Step4](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/Link-GitHub-AccountLogIn-5.png?raw=true "Confirm Settings")
@@ -105,7 +101,7 @@ PyCharm allows you to connect your GitHub account and manage your GitHub project
 
 ![Control-GitHub-Accounts](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/Link-GitHub-MultipleAccounts.png?raw=true "Control GitHub Accounts")
 
-## Share your project on GiHhub
+## Share your project on GitHub
 
  **STOP**
         {: .label .label-red}
@@ -141,7 +137,8 @@ PyCharm allows you to connect your GitHub account and manage your GitHub project
 
 ## Clone an existing project to Pycharm
 1. Go to the GitHub repository page of an existing project.
-2. Click on the <span style="color:green">**CODE** button</span> to access the git url. Click on the clipboard icon to copy the url.
+
+2. Click on the <span style="color:green">**CODE**</span> button to access the git url. Click on the clipboard icon to copy the url.
 
 ![Copy-Git-URL](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/Link-GitHub-CloneRepo-1.png?raw=true "Copy Git URL")
 
@@ -153,7 +150,10 @@ PyCharm allows you to connect your GitHub account and manage your GitHub project
 
 ![Paste-Git-URL](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/Link-GitHub-CloneRepo-3.png?raw=true "Paste Git URL")
 
-5. Paste the copied git url from Step 2 into the **URL** box.
+5. Paste the copied git url from Step 2 into the **URL box**.
+
 6. Select where the cloned project will be stored in your directory.
+
 7. Press **Clone** to copy the GitHub project to your computer.
+
 8. Success! You have now cloned an existing GitHub project to your local computer.
