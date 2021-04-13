@@ -8,7 +8,7 @@ permalink: /docs/ui-components
 
 # Linking to Github
 {: .no_toc}
-PyCharm allows you to connect your GitHub account and manage your GitHub projects directly from PyCharm. This Git and GitHub integration saves you time when you .
+PyCharm allows you to connect your GitHub account and manage your GitHub projects directly from PyCharm. This GitHub integration saves you time when managing and contributing to different GitHub repositories.
 {: .fs-6 .fw-300 }
 
 ---
@@ -24,38 +24,45 @@ PyCharm allows you to connect your GitHub account and manage your GitHub project
 
 ## Connect your GitHub account
 1. From the project workspace, go to **File** -> **Settings** to access the main settings for PyCharm
+
 ![Connect-GitHub-Account-Step1](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/Link-GitHub-AccountLogIn-1.png?raw=true "File -> Settings")
 
 2. Go to **Version Control** -> **GitHub**. Click on the **+** button to add a GitHub account.
+
 ![Connect-GitHub-Account-Step2](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/Link-GitHub-AccountLogIn-2.png?raw=true "Version Control -> GitHub")
 
 3. Choose and click on either Option A or Option B to log-in to your GitHub account.
 
 **Stop**
 {: .label .label-yellow } 
+
    > PyCharm provides two options to add a GitHub account.
    > 
    > A) Log-in with your GitHub credentials
    > 
    > B) Log-in with a personal access token. 
+   > 
     
 ![Connect-GitHub-Account-Step3](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/Link-GitHub-AccountLogIn-3.png?raw=true "Log-in Options A and B")
     
 **Recommended**
 {: .label .label-blue }
+
 > This guide recommends **Option A** as this option is the quickest method. Option B serves as an alternative method should you fail to log-in with Option A.
     
  -  ### Option A - Log-in with GitHub Credentials ###
       1. Click **Log in via GitHub...**.
       2. PyCharm will redirect you to another page. 
       3. Enter your GitHub account credentials. If successful, PyCharm will automatically add your GitHub account. 
-      4. **[Go to step 4.]**
+      4. [Go to step 4.](#step-4)
+
 
  - ### Option B - Log-in with Personal Access Token ###
       1. Go to [GitHub](https://github.com/) and log-in to your GitHub account.
       2. Click on your profile picture located at the top right corner and click on **Settings** to access your account settings.
       
       ![GitHub-Account-Settings](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/Link-GitHub-AccessTokens-1.png?raw=true "GitHub Account Settings")
+      
       3. Click on **Developer Settings** located at the bottom of **Account Settings**.
  
       ![Developer-Settings](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/Link-GitHub-AccessTokens-2.png?raw=true "Developer Settings")
@@ -89,10 +96,13 @@ PyCharm allows you to connect your GitHub account and manage your GitHub project
 
 ![Paste-Access-Token](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/Link-GitHub-AccountLogIn-4.png?raw=true "Paste Access Token")
 
-10. **[Go to step 4.]**
+10. [Go to step 4.](#step-4)
 
+### STEP 4
 4. Success, your GitHub account has been linked! Confirm your GitHub account details that are displayed next to the light blue arrow. Press **Apply** and press **OK** to save your changes. 
+
 ![Connect-GitHub-Account-Step4](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/Link-GitHub-AccountLogIn-5.png?raw=true "Confirm Settings")
+
 
 ## Control multiple GitHub accounts
 1. Add multiple GitHub accounts by pressing the **+** button and follow the same steps as described in [the previous section](#connect-your-github-account).
@@ -109,6 +119,7 @@ PyCharm allows you to connect your GitHub account and manage your GitHub project
   
 1. Select and open the intended project that you want to share.
 2. From the project workspace, go to **VCS** -> **Share Project on GitHub**.
+
 ![VCS-Settings](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/Link-GitHub-ShareProject-1.png?raw=true "VCS -> Share Project on GitHub")
 
 3. In the new window, provide the following project information to create a repositiory on GitHub.
