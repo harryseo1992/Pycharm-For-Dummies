@@ -18,7 +18,7 @@ nav_order: 7
 #### .py file
 : The file extension for the file containing python script.
 
-#### Access Token
+#### Access token
 : An authentication key that provides an application access on behalf of the user
 
 #### cmd
@@ -27,11 +27,11 @@ nav_order: 7
 #### Environment variables
 : An environment variable is a dynamic "object" on a computer, containing an editable value, which may be used by one or more software programs in Windows. Environment variables help programs know what directory to install files in, where to store temporary files, and where to find user profile settings.
 
-#### GitHub
-: A popular Git repositiory hosting service.
-
 #### Git
 : A version control software used by many developers due to the software's open-source and responsiveness nature. 
+
+#### GitHub
+: A popular Git repositiory hosting service.
 
 #### Interpreter
 :  An interpreter is a program that reads and executes code.
