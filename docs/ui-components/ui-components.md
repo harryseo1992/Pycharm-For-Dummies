@@ -70,13 +70,12 @@ Make sure that **repo**, **workflow**, **read:org**, and **gist** are checked of
 6. Press **Generate Token** to confirm your access token settings.
 
 7.  Copy the access token by clicking on the <span style="color:blue">blue clipboard icon</span>.
+![Copy-Access-Token](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/Link-GitHub-AccessTokens-5.png?raw=true "Copy Access Token")
 
 **CAUTION**
 {: .label .label-yellow }
 Keep your access tokens confidential as the tokens provide access to your GitHub account!
 For security reasons, this newly generated token is **ONE TIME ACCESS** only. Ensure you have copied the key or you will have to generate another access token.
-
-![Copy-Access-Token](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/Link-GitHub-AccessTokens-5.png?raw=true "Copy Access Token")
 
 8. In PyCharm, click **Log in with Token...**.
 
@@ -92,6 +91,7 @@ For security reasons, this newly generated token is **ONE TIME ACCESS** only. En
 
 ## Control multiple GitHub accounts
 1. Add multiple GitHub accounts by pressing the **+** button and follow the same steps as described in [the previous section](#connect-your-github-account).
+
 ![Control-GitHub-Accounts](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/Link-GitHub-MultipleAccounts.png?raw=true "Control GitHub Accounts")
 
 2. Delete a GitHub account by selecting the intended account and press the **-** button.
@@ -100,6 +100,7 @@ For security reasons, this newly generated token is **ONE TIME ACCESS** only. En
 
 ## Share your project on GitHub
 
+ 
  **STOP**
  {: .label .label-red }
         You must have linked an active GitHub account before proceeeding.
@@ -111,12 +112,14 @@ For security reasons, this newly generated token is **ONE TIME ACCESS** only. En
 
 3. In the new window, provide the following project information to create a repositiory on GitHub.
 ![Project-Information](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/Link-GitHub-ShareProject-2.png?raw=true "Project Information")
-    1. Give a name for the repository where your project will be located on GitHub.
+      1. Give a name for the repository where your project will be located on GitHub.
+    
     **STOP**
     {: .label .label-red }
-            You have the option to set the your repositoriy visibilty to private by checking **Private** on the right hand side.
-    2. Provide a project description.
-    3. Press **Share** to confirm your changes.
+              You have the option to set the your repositoriy visibilty to private by checking **Private** on the right hand side.
+              
+      2. Provide a project description.
+      3. Press **Share** to confirm your changes.
 
 4. Provide a commit message and press **Add** to add the project files to the repositiory.
 ![Commit-Message](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/Link-GitHub-ShareProject-3.png?raw=true "Commit Message")
