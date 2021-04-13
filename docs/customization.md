@@ -94,12 +94,12 @@ As highlighted below, you will see 3 shapes on the top right of your PyCharm.
 
 Congratulations! You committed and pushed the changes you made to the files! 
 
----
-
 **Recommended**
 {: .label .label-blue } 
     It is a good practice to commit and push often;   
     Committing and pushing after coding a function is ideal.
+
+--- 
 
 ## Side-note
 {: .d-inline-block }
