@@ -1,22 +1,26 @@
 ---
 layout: default
-title: Programming with Python
+title: Programming in PyCharm
 nav_order: 4
 has_children: false
 permalink: docs/utilities
 ---
 
-# Programming with Python
+# Programming in PyCharm
 {: .no_toc}
-Python is an object-oriented language that is easy to learn and runs on many platforms. This section will go over some python basics to get you started.
+PyCharm offers many customizable features such a workspace layouts and keybind shortcuts to increase your coding efficiency. Other features such as Code completion allows PyCharm to provide code suggestions depending on the current code context.
 {: .fs-6 .fw-300 }
 
 ---
 ## TABLE OF CONTENTS
-1. Basic Syntax
-2. Built-in Data types
-3. Functions
-4. Useful PyCharm shortcuts
----
+{: .no_toc .text-delta}
+1. TOC
+{:toc}
 
+---
+## Navigating the PyCharm Workspace
+
+## Troubleshooting PyCharm syntax errors
+
+## Useful PyCharm shortcuts
 
