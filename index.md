@@ -58,7 +58,7 @@ The guide will cover the following basic tasks that are essential for beginners.
 
 1. Setting up PyCharm
 2. Linking to Github Account 
-3. Programming in Python
+3. Programming in PyCharm
 4. Testing Your Codes
 5. Working with Version Control
 
