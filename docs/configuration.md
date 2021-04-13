@@ -25,32 +25,34 @@ If you successfully installed Python, Git, and PyCharm, the first thing you need
 
 In Windows 10, you can check it using Command Prompt.
 
-Follow the order below to open Command Prompt in Windows 10.
-1. Press ***WIN*** ( ![windows-key](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/windows_logo.png?raw=true "windows key") ) + *R***.
+1. Press ***WIN*** ( ![windows-key](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/windows_logo.png?raw=true "windows key") ) + ***R***.
 
-2. As figure below shows, type **cmd** in the Run window and press *OK*.
+2. Type **cmd** in the Run window and press *OK* as figure below shows.
 
     ![cmd-run](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/run_cmd.png?raw=true "Run cmd")
+    
+    Okay! Let's execute Python in Command Prompt next.
 
-3. Okay! Let's execute Python in Command Prompt next. In order to do so, type "python" in your Command Prompt like below.
+3. Type "python" in your Command Prompt like below.
 
     ![cmd-python-implementation](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/1.cmd_python_implementation.png?raw=true "Python implementation in cmd")
+    
+    If you succeeded, you can see the current version of your Python and after that, you will see three close angled brackets(```>>>```).
 
-4. If you succeeded, you can see the current version of your Python and after that, you will see three close angled brackets(```>>>```).
-
+    ![cmd-python-implementation2](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/2.cmd_python_implementation_2.png?raw=true "Python implementation in cmd")
+    
     **CAUTION**
     {: .label .label-yellow }
         If you failed to execute Python program in your Command Prompt, you MUST add Python to Windows PATH.
         To add Python to Windows PATH, please see [Here](https://harryseo1992.github.io/Pycharm-For-Dummies/docs/index-test/#add-python-to-path).
+    
+    The three angled brackets indicates that you are currently using the Python interpreter.
+    
+    Next, let's print **Hello World** using Python.
 
-    ![cmd-python-implementation2](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/2.cmd_python_implementation_2.png?raw=true "Python implementation in cmd")
-    The three angled brackets indicates that you are using Python interpreter now.
+4. Type **print("Hello World")** next to the angled brackets, and press *ENTER*.
 
-5. Let's print **Hello World** using Python.
-
-    * Type **print("Hello World")** next to the angled brackets, and press *ENTER*.
-
-    * Then you will see **Hello World** is printed on your screen.
+    You will see **Hello World** is printed on your screen.
 
     ![cmd-hello-world](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/3.cmd_hello_world.png?raw=true "Print hello world in cmd")
 
@@ -58,7 +60,7 @@ Follow the order below to open Command Prompt in Windows 10.
     {: .label .label-green }
         If you successfully followed the steps all the way here, it means your Python is perfectly working.
 
-6. Type **quit()** to terminate Python in your Command Prompt.
+5. Type **quit()** to terminate Python in your Command Prompt.
 
     ![cmd-quit](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/4.cmd_quit().png?raw=true "Quit Python from cmd")
 
@@ -71,9 +73,7 @@ In this stage, you will be able to create a new project in your PyCharm.
 
     ![PyCharm-starting-page](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/5.PyCharm_Starting_Page.png?raw=true "PyCharm starting page")
 
-2. Click the arrow as is shown in the first red box.
-
-    Then, click the *etc* button (```...```) if you cannot see any interpreter.
+2. Click the arrow as is shown in the first red box, and click the *etc* button (```...```) if you cannot see any interpreter.
     
     **GO**
     {: .label .label-green }
