@@ -17,6 +17,7 @@ nav_order: 6
 
 ## Pull from Existing Repository
 
+
 As you learn how to code, you soon realize that there will be a lot of group coding involved. As such, it is important to be aware of certain practices when it comes to version control. One of them happens to be **_"Pull first, make changes and commit later"_**. Therefore, we will go over how to pull first before we get to committing and pushing changes.
 
 ### Steps
@@ -39,18 +40,22 @@ As you learn how to code, you soon realize that there will be a lot of group cod
 
 
 Congratulations! You should see a pop-up that indicates successful project update.
+
     ![success](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/update_success_real.png?raw=true "Updated project")
 ---
 
 ## Committing and Pushing Changes
 
+
 We have all experienced losing our saved work whether by forgetting where we have put them or messing up so bad the file got corrupted. It is also important to save your work when coding as well. To do that, you need to *commit* the changes you have made and *push* the changes to the repository you have cloned.
 
 ### Steps
 
+
 If you see your files change colour as highlighted below, it means there are changes made that is not saved.
 
     ![committing_changes](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/commit_highlighted.png?raw=true "committing changes")
+
 
 As highlighted below, you will see 3 shapes.
 
@@ -89,10 +94,10 @@ As highlighted below, you will see 3 shapes.
 
 Congratulations! You committed and pushed the changes you made to the files! 
 
-    **Recommended**
-    {: .label .label-blue } 
-            It is a good practice to commit and push often;   
-            committing and pushing after coding a function is ideal.
+**Recommended**
+{: .label .label-blue } 
+    It is a good practice to commit and push often;   
+    committing and pushing after coding a function is ideal.
 
 ## Side-note
 {: .d-inline-block }
