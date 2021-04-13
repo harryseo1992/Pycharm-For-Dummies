@@ -23,14 +23,6 @@ Pycharm for dummies is a document with multiple walkthroughs to help people util
 
 ---
 
-## Getting Started
-
-This guide is intended for programming students looking for a professional IDE to take advantage of during their first python course. The guide assumes you have completed the following prerequisites. 
-
-Before we get started, make sure you [meet the minimum system requirements](https://www.jetbrains.com/help/pycharm/installation-guide.html#requirements) for PyCharm.
-
----
-
 ## Prerequisites
 
 This guide works with the following program versions noted below. Higher versions may not work depending on future changes.
@@ -41,14 +33,23 @@ This guide works with the following program versions noted below. Higher version
 4. Github Account [Sign up for Account](https://github.com/)
 5. Git 2.31.1 [Get the latest version](https://git-scm.com/)
 
+
+## Getting Started
+
+This guide is intended for programming students looking for a professional IDE to take advantage of during their first Python course. The guide assumes you have completed the following prerequisites. 
+
+Before we get started, make sure you [meet the minimum system requirements](https://www.jetbrains.com/help/pycharm/installation-guide.html#requirements) for PyCharm.
+
 ---
 
 ## System Requirements
 
-1. A functioning computer 
-2. Windows 10 Operating System
-3. Internet connection
-4. Basic computer knowledge
+PyCharm For Dummies was written with the following requirements in mind.
+
+* A functioning computer 
+* Windows 10 Operating System
+* Internet connection
+* Basic computer knowledge
 
 ---
 
@@ -58,9 +59,7 @@ The guide will cover the following basic tasks that are essential for beginners.
 
 1. Setting up PyCharm
 2. Linking to Github Account 
-3. Programming in PyCharm
-4. Testing Your Codes
-5. Working with Version Control
+3. Working with Version Control
 
 ---
 
