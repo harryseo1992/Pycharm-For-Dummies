@@ -1,5 +1,4 @@
 ---
-published: false
 layout: default
 title: Programming in PyCharm
 nav_order: 4
