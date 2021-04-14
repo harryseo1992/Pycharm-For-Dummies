@@ -31,7 +31,7 @@ In Windows 10, you can check it using Command Prompt.
 
     ![cmd-run](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/run_cmd.png?raw=true "Run cmd")
     
-    Okay! Let's execute the Python in Command Prompt next.
+    If you were able to open Command Prompt, the next step is to execute the Python in it.
 
 3. Type "python" in your Command Prompt like below.
 
