@@ -89,13 +89,6 @@ Recommended
 {: .label .label-blue }
     Useful hints and tips
 
-Each guide will have steps and a screenshot / screenshots to follow through the steps to provide more detail. 
-For example:
-
-  1. If the burglar managed to get into your house, **_CALL 911_**
-
-    ![screenshot_example](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/call911.png?raw=true "calling 911")
-
 ---
 
 
