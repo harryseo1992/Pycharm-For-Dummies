@@ -33,7 +33,6 @@ This guide works with the following program versions noted below. Higher version
 4. Github Account [Sign up for Account](https://github.com/)
 5. Git 2.31.1 [Get the latest version](https://git-scm.com/)
 
-
 ## Getting Started
 
 This guide is intended for programming students looking for a professional IDE to take advantage of during their first Python course. The guide assumes you have completed the following prerequisites. 
