@@ -115,6 +115,7 @@ PyCharm allows you to connect your GitHub account and manage your GitHub project
 
 ## Share your project on GitHub
 
+
 **STOP**
 {: .label .label-red }
     You must have linked an active GitHub account before proceeeding.
