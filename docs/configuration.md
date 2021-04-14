@@ -64,7 +64,7 @@ In Windows 10, you can check it using Command Prompt.
 
     ![cmd-quit](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/4.cmd_quit().png?raw=true "Quit Python from cmd")
 
-Great! Your Python seems perfectly working!
+Great! Your Python seems to be working perfectly!
 
 Next, let's create a new project in PyCharm.
 
@@ -75,7 +75,7 @@ In this stage, you will be able to create a new project in your PyCharm.
 
     ![PyCharm-starting-page](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/5.PyCharm_Starting_Page.png?raw=true "PyCharm starting page")
 
-2. Click the arrow as is shown in the first red box and click the *etc* button (```...```).
+2. Click the arrow as is shown in the first red box and click the *etc* button (```...```) as the second red box shows.
     
     **GO**
     {: .label .label-green }
@@ -91,7 +91,7 @@ In this stage, you will be able to create a new project in your PyCharm.
     {: .label .label-yellow }
         The number with Python (e.g., Python38) may vary depending on the Python version you installed.
 
-    When you found your *python.exe* file, click the *OK* button.
+    When you have found your *python.exe* file, click the *OK* button.
 
     ![Creating-new-project-2](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/8.find_interpreter.png?raw=true "Creating new project 2")
 
@@ -103,15 +103,17 @@ In this stage, you will be able to create a new project in your PyCharm.
 
     ![Creating-new-project-4](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/10.create_new_project.png?raw=true "Creating new project 4")
     
-    After you create a new project, you will see a window like a figure below.
+    After you create a new project, you will see a window like the figure below.
 
     ![Creating-py-file-1](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/11.first_window_after_creating_project.png?raw=true "Createing py file 1")
 
-Fantastic! You successfully created a new project in your PyChram!
+Fantastic! You successfully created a new project in your PyCharm!
 
 Next, let's create a **.py** file in your project.
 
 ## Create **.py** File into the Project
+You will be able to create a **.py** file after completing the following steps.
+
 1. Right-click the project directory, hover on **New** and click **Python File** sequentially.
 
     ![Creating-py-file-2](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/12.create_new_python_file.png?raw=true "Createing py file 2")
@@ -122,11 +124,14 @@ Next, let's create a **.py** file in your project.
     
 Brilliant! You successfully created a **.py** file in your project!
 
-You also create multiple **.py** files in a project by repeating the steps above.
+You can also create multiple **.py** files in a project by repeating the steps above.
 
 Finally, let's run the **.py** file!
 
 ## Run Your **.py** File
+Running your **.py** file is one of the fundamental practices for Python beginners because you can check if your codes are working by running the codes.
+
+You will be able to learn how to run a **.py** file by following the steps below.
 
 1. Type your Python code like **print("Hello World")**, right-click on your screen, and click *Run \[YOUR_FILE_NAME\]*
 
