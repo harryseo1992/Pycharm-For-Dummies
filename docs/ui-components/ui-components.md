@@ -43,7 +43,8 @@ PyCharm allows you to connect your GitHub account and manage your GitHub project
     
     **RECOMMENDED**
     {: .label .label-blue }
-        This guide recommends **Option A** as this option is the quickest method. Option B serves as an alternative method should you fail to log-in with Option A.
+        This guide recommends **Option A** as this option is the quickest method.
+        Option B serves as an alternative method should you fail to log-in with Option A.
     
 ### Option A - Log-in with GitHub Credentials ###
 1. Click **Log in via GitHub...**.
@@ -130,9 +131,10 @@ PyCharm allows you to connect your GitHub account and manage your GitHub project
     
     1. Give a name for the repository where your project will be located on GitHub.
     
-    **STOP**
-    {: .label .label-red }
-        You have the option to set the your repositoriy visibilty to private by checking **Private** on the right hand side.
+        **STOP**
+        {: .label .label-red }
+            You have the option to set the your repositoriy visibilty to private
+            by checking **Private** on the right hand side.
    
     2. Provide a project description.
     
