@@ -4,6 +4,7 @@ title: Programming in PyCharm
 nav_order: 4
 has_children: false
 permalink: docs/utilities
+exclude: true
 ---
 
 # Programming in PyCharm
