@@ -90,6 +90,4 @@ Recommended
 
 ---
 
-
-
 ![pycharm-logo](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/PyCharm-Icon-Small.png?raw=true "Pycharm logo")
