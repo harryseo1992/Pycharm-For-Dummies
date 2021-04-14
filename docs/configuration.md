@@ -33,7 +33,7 @@ In Windows 10, you can check it using Command Prompt.
     
     If you were able to open Command Prompt, the next step is to execute the Python in it.
 
-3. Type **python** in your Command Prompt like below.
+3. Type **python** in your Command Prompt like below (<span style="color:red">**CASE INSENSITIVE**</span>).
 
     ![cmd-python-implementation](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/1.cmd_python_implementation.png?raw=true "Python implementation in cmd")
     
@@ -50,7 +50,7 @@ In Windows 10, you can check it using Command Prompt.
     
     Next, let's print **Hello World** using Python.
 
-4. Type **print("Hello World")** next to the angled brackets and press *ENTER*.
+4. Type **print("Hello World")** next to the angled brackets and press *ENTER* (<span style="color:red">**CASE SENSITIVE**</span>).
 
     You will see **Hello World** is printed on your screen.
 
