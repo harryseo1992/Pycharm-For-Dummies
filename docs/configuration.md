@@ -38,15 +38,15 @@ In Windows 10, you can check it using Command Prompt.
     ![cmd-python-implementation](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/1.cmd_python_implementation.png?raw=true "Python implementation in cmd")
     
     If you succeeded, you can see the current version of your Python and after that, you will see three close angled brackets(```>>>```).
+    
+    The brackets indicate that you are currently using the Python interpreter.
 
     ![cmd-python-implementation2](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/2.cmd_python_implementation_2.png?raw=true "Python implementation in cmd")
     
-    **CAUTION**
-    {: .label .label-yellow }
+    **STOP**
+    {: .label .label-red }
         If you failed to execute Python program in your Command Prompt, you MUST add Python to Windows PATH.
-        To add Python to Windows PATH, please see [Here](https://harryseo1992.github.io/Pycharm-For-Dummies/docs/index-test/#add-python-to-path).
-    
-    The three angled brackets indicates that you are currently using the Python interpreter.
+        To add Python to Windows PATH, please see Troubleshooting - 1. Add Python to PATH.
     
     Next, let's print **Hello World** using Python.
 
@@ -64,7 +64,9 @@ In Windows 10, you can check it using Command Prompt.
 
     ![cmd-quit](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/4.cmd_quit().png?raw=true "Quit Python from cmd")
 
-    Let's move on to the next step!
+Okay! Your Python seems perfectly working!
+
+Next, let's create a new project in PyCharm.
 
 ## Create a New Project in PyCharm
 In this stage, you will be able to create a new project in your PyCharm.
@@ -73,7 +75,7 @@ In this stage, you will be able to create a new project in your PyCharm.
 
     ![PyCharm-starting-page](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/5.PyCharm_Starting_Page.png?raw=true "PyCharm starting page")
 
-2. Click the arrow as is shown in the first red box, and click the *etc* button (```...```) if you cannot see any interpreter.
+2. Click the arrow as is shown in the first red box, and click the *etc* button (```...```).
     
     **GO**
     {: .label .label-green }
@@ -100,28 +102,35 @@ In this stage, you will be able to create a new project in your PyCharm.
 5. Press *Create* button, then you get a new project in your PyCharm.
 
     ![Creating-new-project-4](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/10.create_new_project.png?raw=true "Creating new project 4")
-
-## Create .py File into the Project
+    
 After you create a new project, you will see a window like figure below.
 
 ![Creating-py-file-1](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/11.first_window_after_creating_project.png?raw=true "Createing py file 1")
 
-Now, let's create a **.py** file.
-1. Right click the project directory, hover on **New** and **Python File** sequentially.
+Next, let's create a **.py** file in your project.
+
+## Create .py File into the Project
+1. Right-click the project directory, hover on **New** and click **Python File** sequentially.
 
     ![Creating-py-file-2](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/12.create_new_python_file.png?raw=true "Createing py file 2")
 
-2. Name your new .py file. (HelloWorld in this example.)
+2. Name your new .py file (HelloWorld in this example) and press *ENTER*.
 
     ![Creating-py-file-3](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/13.creating_py_file.png?raw=true "Createing py file 3")
+    
+Great! You successfully created a .py file in your project!
+
+You also create multiple **.py** files in a project by repeating the steps above.
+
+Finally, let's run the **.py** file!
 
 ## Run Your .py File
 
-1. Type your Python code like **print("Hello World")**, right click on your screen, and click *Run \[YOUR_FILE_NAME\]*
+1. Type your Python code like **print("Hello World")**, right-click on your screen, and click *Run \[YOUR_FILE_NAME\]*
 
     ![Run-your-py-file-1](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/14.run_py_file.png?raw=true "Run your py file 1")
 
-2. Then you will see the result of the execution.
+2. Check the result of the execution.
 
     ![Run-your-py-file-2](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/15.after_run.png?raw=true "Run your py file 2")
 
