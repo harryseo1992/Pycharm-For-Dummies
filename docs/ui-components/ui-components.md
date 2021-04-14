@@ -18,9 +18,9 @@ PyCharm allows you to connect your GitHub account and manage your GitHub project
 {:toc}
 ---
 
-   **Recommended**
+**Recommended**
     {: .label .label-blue }
-      Make sure you have an existing GitHub account before proceeding.
+        Make sure you have an existing GitHub account before proceeding.
 
 ## Connect your GitHub account
 1. From the project workspace, go to **File** -> **Settings** to access the main settings for PyCharm
