@@ -103,9 +103,9 @@ In this stage, you will be able to create a new project in your PyCharm.
 
     ![Creating-new-project-4](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/10.create_new_project.png?raw=true "Creating new project 4")
     
-After you create a new project, you will see a window like a figure below.
+    After you create a new project, you will see a window like a figure below.
 
-![Creating-py-file-1](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/11.first_window_after_creating_project.png?raw=true "Createing py file 1")
+    ![Creating-py-file-1](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/11.first_window_after_creating_project.png?raw=true "Createing py file 1")
 
 Fantastic! You successfully created a new project in your PyChram!
 
