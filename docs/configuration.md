@@ -111,22 +111,22 @@ Fantastic! You successfully created a new project in your PyChram!
 
 Next, let's create a **.py** file in your project.
 
-## Create .py File into the Project
+## Create **.py** File into the Project
 1. Right-click the project directory, hover on **New** and click **Python File** sequentially.
 
     ![Creating-py-file-2](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/12.create_new_python_file.png?raw=true "Createing py file 2")
 
-2. Name your new .py file (HelloWorld in this example) and press *ENTER*.
+2. Name your new **.py** file (HelloWorld in this example) and press *ENTER*.
 
     ![Creating-py-file-3](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/13.creating_py_file.png?raw=true "Createing py file 3")
     
-Brilliant! You successfully created a .py file in your project!
+Brilliant! You successfully created a **.py** file in your project!
 
 You also create multiple **.py** files in a project by repeating the steps above.
 
 Finally, let's run the **.py** file!
 
-## Run Your .py File
+## Run Your **.py** File
 
 1. Type your Python code like **print("Hello World")**, right-click on your screen, and click *Run \[YOUR_FILE_NAME\]*
 
