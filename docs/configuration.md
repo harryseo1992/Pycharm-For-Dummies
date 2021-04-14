@@ -8,8 +8,8 @@ nav_order: 2
 {: .no_toc }
 
 
-Before write actual code with PyCharm, you need to make a basic setup for PyCharm.
-You will be able to make a new project in your PyCharm and Python file by successfully follow the steps below.
+Before writing actual code with PyCharm, you need to make a basic setup for PyCharm.
+You will be able to create a new project in your PyCharm and Python file by successfully follow the steps below.
 {: .fs-6 .fw-300 }
 
 ## Table of contents
@@ -27,17 +27,17 @@ In Windows 10, you can check it using Command Prompt.
 
 1. Press ***WIN*** ( ![windows-key](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/windows_logo.png?raw=true "windows key") ) + ***R***.
 
-2. Type **cmd** in the Run window and press *OK* as figure below shows.
+2. Type **cmd** in the Run window and press *OK* as the figure below shows.
 
     ![cmd-run](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/run_cmd.png?raw=true "Run cmd")
     
-    Okay! Let's execute Python in Command Prompt next.
+    Okay! Let's execute the Python in Command Prompt next.
 
 3. Type "python" in your Command Prompt like below.
 
     ![cmd-python-implementation](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/1.cmd_python_implementation.png?raw=true "Python implementation in cmd")
     
-    If you succeeded, you can see the current version of your Python and after that, you will see three close angled brackets(```>>>```).
+    If it is successful, you can see the current version of your Python, and after that, you will see three close angled brackets(```>>>```).
     
     The brackets indicate that you are currently using the Python interpreter.
 
@@ -46,11 +46,11 @@ In Windows 10, you can check it using Command Prompt.
     **STOP**
     {: .label .label-red }
         If you failed to execute Python program in your Command Prompt, you MUST add Python to Windows PATH.
-        To add Python to Windows PATH, please see Troubleshooting - 1. Add Python to PATH.
+        To add Python to Windows PATH, please see Troubleshooting - Add Python to PATH.
     
     Next, let's print **Hello World** using Python.
 
-4. Type **print("Hello World")** next to the angled brackets, and press *ENTER*.
+4. Type **print("Hello World")** next to the angled brackets and press *ENTER*.
 
     You will see **Hello World** is printed on your screen.
 
@@ -64,48 +64,50 @@ In Windows 10, you can check it using Command Prompt.
 
     ![cmd-quit](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/4.cmd_quit().png?raw=true "Quit Python from cmd")
 
-Okay! Your Python seems perfectly working!
+Great! Your Python seems perfectly working!
 
 Next, let's create a new project in PyCharm.
 
 ## Create a New Project in PyCharm
 In this stage, you will be able to create a new project in your PyCharm.
 
-1. Open your PyCharm and click *New Project* button.
+1. Open your PyCharm and click the *New Project* button.
 
     ![PyCharm-starting-page](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/5.PyCharm_Starting_Page.png?raw=true "PyCharm starting page")
 
-2. Click the arrow as is shown in the first red box, and click the *etc* button (```...```).
+2. Click the arrow as is shown in the first red box and click the *etc* button (```...```).
     
     **GO**
     {: .label .label-green }
-        If you can see an interpreter as figure below, GO STRAIGHT TO STEP 5
+        If you can see an interpreter as the figure below, GO STRAIGHT TO STEP 5
 
     ![Creating-new-project-1](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/7.click_down_arrow.png?raw=true "Creating new project")
 
-3. Select *System Interpreter* from the left navigation bar, and click the *etc* button (```...```).
+3. Select *System Interpreter* from the left navigation bar and click the *etc* button (```...```).
 
     Then, find the path to *python.exe* file. It is usually in **C:\Users\\\[YOUR_USER_NAME\]\AppData\Local\Programs\Python\Python38\python.exe**.
 
     **CAUTION**
     {: .label .label-yellow }
-        The number with Python (e.g., Python38) may vary depending on the Python version that you installed.
+        The number with Python (e.g., Python38) may vary depending on the Python version you installed.
 
-    When you find your *python.exe* file, click *OK* button.
+    When you found your *python.exe* file, click the *OK* button.
 
     ![Creating-new-project-2](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/8.find_interpreter.png?raw=true "Creating new project 2")
 
-4. Double check that you can see the interpreter correctly, and press *OK* button.
+4. Double check that you can see the interpreter correctly and press the *OK* button.
 
     ![Creating-new-project-3](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/9.Interpreter_found.png?raw=true "Creating new project 3")
 
-5. Press *Create* button, then you get a new project in your PyCharm.
+5. Press the *Create* button, then you get a new project in your PyCharm.
 
     ![Creating-new-project-4](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/10.create_new_project.png?raw=true "Creating new project 4")
     
-After you create a new project, you will see a window like figure below.
+After you create a new project, you will see a window like a figure below.
 
 ![Creating-py-file-1](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/11.first_window_after_creating_project.png?raw=true "Createing py file 1")
+
+Fantastic! You successfully created a new project in your PyChram!
 
 Next, let's create a **.py** file in your project.
 
@@ -118,7 +120,7 @@ Next, let's create a **.py** file in your project.
 
     ![Creating-py-file-3](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/13.creating_py_file.png?raw=true "Createing py file 3")
     
-Great! You successfully created a .py file in your project!
+Brilliant! You successfully created a .py file in your project!
 
 You also create multiple **.py** files in a project by repeating the steps above.
 
