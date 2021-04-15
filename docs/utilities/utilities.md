@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Programming in PyCharm
-parent: utilities
+parent: Utilities
 nonav: true
 ---
 
