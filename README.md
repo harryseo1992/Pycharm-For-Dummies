@@ -6,9 +6,12 @@
 </p>
 
 ## TABLE OF CONTENTS
-{: .no_toc .text-delta}
-1. TOC
-{:toc}
+1. Introduction
+2. Any information that I should know about before starting?
+3. I'm ready to start learning!
+4. I'm running into jargons!
+5. I'm so lost. I'm not getting the results I hsould be getting...
+6. Closing off
 
 ## Introduction
 
