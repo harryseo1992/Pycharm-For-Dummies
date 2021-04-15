@@ -3,7 +3,6 @@ layout: default
 title: Programming in PyCharm
 nav_order: 4
 has_children: false
-permalink: docs/utilities
 ---
 
 # Programming in PyCharm
