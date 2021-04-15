@@ -1,12 +1,8 @@
 ---
 layout: default
 title: Programming in PyCharm
-<<<<<<< HEAD
 has_children: false
 nonav: true
-=======
-parent: Utilities
->>>>>>> parent of f069578... Update utilities.md
 ---
 
 # Programming in PyCharm
