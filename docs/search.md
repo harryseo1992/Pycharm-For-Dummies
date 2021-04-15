@@ -19,7 +19,7 @@ nav_order: 7
 : The file extension for the file containing python script.
 
 #### Access token
-: An authentication key that provides an application access on behalf of the user
+: An authentication key that provides an application access on behalf of the user.
 
 #### cmd
 : Microsoft Windows command that opends Command Prompt.
