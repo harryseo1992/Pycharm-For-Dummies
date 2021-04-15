@@ -41,10 +41,10 @@ While we made sure to be clear and concise, these are terms you will have to run
 
 ## I'm so lost. I'm not getting the results I should be getting...
 
-Every situation is different, and they are frustrating when it happens to us. In an attempt to accomodate for these situations, we have listed the fixes for common problems that may occur when using PyCharm in our [Troubleshooting Section](https://harryseo1992.github.io/Pycharm-For-Dummies/docs/index-test/). Please read through them and if you run into issues outside of our coverage, please contact pycharm4dummies@gmail.com and detail the issues you have!
+Every situation is different, and they are frustrating when it happens to us. In an attempt to accomodate for these situations, we have listed the fixes for common problems that may occur when using PyCharm in our [Troubleshooting Section](https://harryseo1992.github.io/Pycharm-For-Dummies/docs/index-test/).
 
 
 ## Closing off
 
-The document was written with the best intentions in mind to cut the hours one may need to spend to get used to a new environment, and we hope it served its purpose. Again, if you are willing to share some ideas that may help others even more, contact us at pycharm4dummies@gmail.com!
+The document was written with the best intentions in mind to cut the hours one may need to spend to get used to a new environment, and we hope it served its purpose.
 
