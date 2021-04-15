@@ -1,17 +1,10 @@
 ---
 layout: default
 title: Programming in PyCharm
-<<<<<<< HEAD
-has_children: false
-nonav: true
-=======
-<<<<<<< HEAD
 has_children: false
 nonav: true
 =======
 parent: Utilities
->>>>>>> parent of f069578... Update utilities.md
->>>>>>> parent of 485f6fd... Update utilities.md
 ---
 
 # Programming in PyCharm
